@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.12.2.final using JasperReports Library version 6.12.2-75c5e90a222ab406e416cbf590a5397028a52de3  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Juvenile" pageWidth="632" pageHeight="864" columnWidth="592" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="f5ea8172-59f2-42c7-af96-1436c3d11ac9">
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="824" splitType="Stretch">
+			<property name="com.jaspersoft.studio.layout" value="com.jaspersoft.studio.editor.layout.FreeLayout"/>
+			<frame>
+				<reportElement x="-1" y="-1" width="591" height="821" uuid="de095896-d918-4d44-90b4-19c32e9c6644"/>
+				<frame>
+					<reportElement x="0" y="0" width="591" height="180" uuid="3ab2ed17-a3e6-4d3e-aa09-f2158e94c7e5"/>
+					<image>
+						<reportElement x="186" y="25" width="158" height="52" uuid="baff9e45-9b67-40b0-a25e-53d70c2417e2"/>
+						<imageExpression><![CDATA["E:/MOS/docs/code.png"]]></imageExpression>
+					</image>
+					<frame>
+						<reportElement x="380" y="1" width="210" height="44" uuid="a7366142-72b8-4a30-a909-87fda5fa9c19"/>
+						<staticText>
+							<reportElement x="30" y="1" width="177" height="10" uuid="f1821f70-fb16-4538-87ba-1567c71e35bf"/>
+							<textElement textAlignment="Right">
+								<font size="7" isBold="true"/>
+							</textElement>
+							<text><![CDATA[Proposal Form (Juvenile)]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="10" y="12" width="197" height="11" uuid="87088358-8e68-4793-a3cf-789fa61eb62f"/>
+							<textElement textAlignment="Right">
+								<font size="6"/>
+							</textElement>
+							<text><![CDATA[(to be used for all polices on juvenile 15 years of age and under)]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="30" y="23" width="179" height="10" uuid="9a2520e4-ce3d-4e44-967d-601cc3b38749"/>
+							<textElement textAlignment="Right">
+								<font fontName="Kalpurush" size="6"/>
+							</textElement>
+							<text><![CDATA[প্রস্তাবপত্র (অ-প্রাপ্তবয়স্ক)]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="10" y="34" width="199" height="10" uuid="0aefce4e-2b44-49e5-9d8b-34d4ea0f9b1d"/>
+							<textElement textAlignment="Right">
+								<font fontName="Kalpurush" size="6"/>
+							</textElement>
+							<text><![CDATA[(১৫ বছর এবং তার নিচের অ-প্রাপ্তবয়স্কের সকল পলিসির জন্য ব্যবহৃত হবে)]]></text>
+						</staticText>
+					</frame>
+					<frame>
+						<reportElement x="357" y="46" width="233" height="56" uuid="43543737-28a5-48fc-a392-0d65f7f79070"/>
+						<staticText>
+							<reportElement x="0" y="0" width="221" height="21" uuid="73aedc6a-cf7f-4a6b-98a5-79bd29175a64"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[This form/receipt is valid only if completed and received at the company’s Registered Office in Bangladesh on or before]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="0" y="21" width="221" height="29" uuid="dc1a2732-94db-4d12-a934-25632c3ea782"/>
+							<textElement>
+								<font fontName="Kalpurush" size="7"/>
+							</textElement>
+							<text><![CDATA[কেবল যে তারিখ বা তার পূর্বে এই ফর্ম/রিসিটটি বাংলাদেশে কোম্পানির নিবন্ধিত কার্যালয়ে পূরণকৃত এবং গৃহীত অবস্থায় বৈধ বলে গণ্য হবে।]]></text>
+						</staticText>
+					</frame>
+				</frame>
+				<image>
+					<reportElement x="10" y="10" width="106" height="23" uuid="33936089-69d5-4477-b01b-4e9baf525554"/>
+					<imageExpression><![CDATA["E:/MOS/docs/logos/metlife_eng_logo_rgb.png"]]></imageExpression>
+				</image>
+			</frame>
+		</band>
+	</title>
+</jasperReport>

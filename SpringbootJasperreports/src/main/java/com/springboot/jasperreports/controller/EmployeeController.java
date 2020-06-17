@@ -67,7 +67,7 @@ public class EmployeeController {
 	// Method to create the pdf file using the employee list datasource.
 	private void createPdfReport(final List<Employee> employees, HttpServletResponse httpResponse) throws JRException {
 		// Fetching the .jrxml file from the resources folder.
-		final InputStream stream = this.getClass().getResourceAsStream("/test.jrxml");
+		final InputStream stream = this.getClass().getResourceAsStream("/Juvenile.jrxml");
 
 		// Compile the Jasper report from .jrxml to .japser
 		final JasperReport report = JasperCompileManager.compileReport(stream);
