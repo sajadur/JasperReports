@@ -51,19 +51,100 @@
 					</frame>
 					<frame>
 						<reportElement x="357" y="46" width="233" height="56" uuid="43543737-28a5-48fc-a392-0d65f7f79070"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
 						<staticText>
-							<reportElement x="0" y="0" width="221" height="21" uuid="73aedc6a-cf7f-4a6b-98a5-79bd29175a64"/>
+							<reportElement x="2" y="0" width="221" height="21" uuid="73aedc6a-cf7f-4a6b-98a5-79bd29175a64"/>
 							<textElement>
 								<font size="7"/>
 							</textElement>
 							<text><![CDATA[This form/receipt is valid only if completed and received at the company’s Registered Office in Bangladesh on or before]]></text>
 						</staticText>
 						<staticText>
-							<reportElement x="0" y="21" width="221" height="29" uuid="dc1a2732-94db-4d12-a934-25632c3ea782"/>
+							<reportElement x="2" y="21" width="221" height="29" uuid="dc1a2732-94db-4d12-a934-25632c3ea782"/>
 							<textElement>
 								<font fontName="Kalpurush" size="7"/>
 							</textElement>
 							<text><![CDATA[কেবল যে তারিখ বা তার পূর্বে এই ফর্ম/রিসিটটি বাংলাদেশে কোম্পানির নিবন্ধিত কার্যালয়ে পূরণকৃত এবং গৃহীত অবস্থায় বৈধ বলে গণ্য হবে।]]></text>
+						</staticText>
+					</frame>
+					<frame>
+						<reportElement x="357" y="105" width="233" height="33" uuid="40b12628-d465-4954-a377-a9f0b8fea9fe"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<rectangle>
+							<reportElement x="7" y="2" width="10" height="10" uuid="d132f7c0-9819-4978-b39c-fdb95c3b0c08"/>
+							<graphicElement>
+								<pen lineWidth="0.25" lineStyle="Solid"/>
+							</graphicElement>
+						</rectangle>
+						<line>
+							<reportElement x="6" y="14" width="220" height="1" uuid="ceebc51d-4b46-466d-a0a1-7d0ee0a3a9d2"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<rectangle>
+							<reportElement x="121" y="3" width="10" height="10" uuid="fcfcda6d-b8b4-41cb-a46f-e66ca4302fe8"/>
+							<graphicElement>
+								<pen lineWidth="0.25" lineStyle="Solid"/>
+							</graphicElement>
+						</rectangle>
+						<staticText>
+							<reportElement x="19" y="1" width="30" height="10" uuid="d1b1bb5e-ed4d-4f6e-b337-07fb2a3a76b7"/>
+							<textElement>
+								<font size="7" isBold="true"/>
+							</textElement>
+							<text><![CDATA[Medical]]></text>
+						</staticText>
+						<line direction="BottomUp">
+							<reportElement x="46" y="1" width="7" height="10" uuid="69316a65-0b90-4b1e-a4c5-ca81e4e6a6fe"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="53" y="0" width="56" height="14" uuid="d10aee07-6ffe-4d99-8f3f-795615171040"/>
+							<textElement>
+								<font fontName="Kalpurush" size="7" isBold="false"/>
+							</textElement>
+							<text><![CDATA[মেডিকেল]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="132" y="1" width="50" height="10" uuid="70720411-7325-4753-af29-d45b858fb0af"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[Non-Medical]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="182" y="0" width="40" height="12" uuid="fe97e3fb-e7b4-4ff3-ba82-01afd210561c"/>
+							<textElement>
+								<font fontName="Kalpurush" size="7"/>
+							</textElement>
+							<text><![CDATA[নন-মেডিকেল]]></text>
+						</staticText>
+						<line direction="BottomUp">
+							<reportElement x="174" y="1" width="7" height="10" uuid="7fb9ed7f-7f11-4c44-a124-6128eef574a5"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="7" y="14" width="150" height="10" uuid="8e6a36e7-9721-4c47-b371-a3496daa7005"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[Application No]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="7" y="21" width="160" height="16" uuid="d4dbd2cd-d882-4488-b7ee-f784d6932a3c"/>
+							<textElement>
+								<font fontName="Kalpurush" size="7"/>
+							</textElement>
+							<text><![CDATA[আবেদনপত্র নং]]></text>
 						</staticText>
 					</frame>
 				</frame>
