@@ -743,6 +743,52 @@ Hotline-16344 or 09666716344
 						</staticText>
 					</frame>
 				</frame>
+				<frame>
+					<reportElement x="10" y="363" width="581" height="455" uuid="127ea1da-a936-49db-ac58-416ba8ea50bf"/>
+					<box>
+						<pen lineWidth="0.25"/>
+					</box>
+					<frame>
+						<reportElement x="0" y="2" width="346" height="453" uuid="faa06652-df3e-4cb0-b484-c3e0e6ef2b9b"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<staticText>
+							<reportElement x="4" y="3" width="336" height="27" uuid="8d8046ec-d2f4-4137-8f8a-f53da8f33f68"/>
+							<textElement>
+								<font size="8" isBold="true"/>
+							</textElement>
+							<text><![CDATA[B. DETAILS OF THE PERSON APPLYING FOR INSURANCE, HEREIN CALLED THE PROPOSED ADULT APPLICANT/PAYOR WHO IS TO BE THE PRIMARY BENEFICIARY / ]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="4" y="21" width="336" height="29" uuid="503324a5-2f35-480b-af60-a3d42c63edab"/>
+							<textElement verticalAlignment="Top">
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[অবেদনকারীর বিবরণ, অত:পর এখানে প্রস্তাবিত প্রাপ্তবয়স্ক আবেদনকারী/প্রিমিয়াম প্রদানকারী যিনি প্রাথমিক সুবিধাগ্রাহী হিসাবে বিবেচিত হবেন।]]></text>
+						</staticText>
+						<line>
+							<reportElement x="147" y="58" width="193" height="1" uuid="48f02ff8-187f-47a2-a7f3-b158b9af8a88"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="87" y="48" width="60" height="17" uuid="1b076fdc-b891-4da1-90f0-741e0adf1c96"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[পূর্ণ নাম (ইংরেজিতে)]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="4" y="49" width="83" height="19" uuid="24dc269d-4d61-4230-a766-38b6bf8e0176"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Full name (In English) / ]]></text>
+						</staticText>
+					</frame>
+				</frame>
 			</frame>
 		</band>
 	</title>

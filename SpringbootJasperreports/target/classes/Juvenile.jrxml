@@ -472,14 +472,14 @@ Hotline-16344 or 09666716344
 						<text><![CDATA[Age/]]></text>
 					</staticText>
 					<staticText>
-						<reportElement x="412" y="49" width="19" height="17" uuid="36a98fcb-04e8-43f8-b8c6-06c522fbf272"/>
+						<reportElement x="412" y="50" width="19" height="17" uuid="36a98fcb-04e8-43f8-b8c6-06c522fbf272"/>
 						<textElement>
 							<font fontName="Kalpurush" size="8"/>
 						</textElement>
 						<text><![CDATA[বয়স]]></text>
 					</staticText>
 					<staticText>
-						<reportElement x="481" y="50" width="19" height="17" uuid="a5d634e3-b829-4017-b3de-a182c397276e"/>
+						<reportElement x="481" y="51" width="19" height="17" uuid="a5d634e3-b829-4017-b3de-a182c397276e"/>
 						<textElement>
 							<font fontName="Kalpurush" size="8"/>
 						</textElement>
@@ -500,7 +500,7 @@ Hotline-16344 or 09666716344
 						<text><![CDATA[month/]]></text>
 					</staticText>
 					<staticText>
-						<reportElement x="558" y="50" width="19" height="17" uuid="44918787-7973-42a4-8ee4-c4f02fa6c996"/>
+						<reportElement x="558" y="51" width="19" height="17" uuid="44918787-7973-42a4-8ee4-c4f02fa6c996"/>
 						<textElement>
 							<font fontName="Kalpurush" size="8"/>
 						</textElement>
@@ -518,6 +518,230 @@ Hotline-16344 or 09666716344
 							<pen lineWidth="0.25"/>
 						</graphicElement>
 					</line>
+					<line>
+						<reportElement x="94" y="83" width="184" height="1" uuid="072746de-177b-4f78-baa6-0f07ea092563"/>
+						<graphicElement>
+							<pen lineWidth="0.25"/>
+						</graphicElement>
+					</line>
+					<staticText>
+						<reportElement x="60" y="72" width="47" height="17" uuid="13e33836-1cb3-4b35-874d-a23f6dca4d98"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[পিতার নাম]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="2" y="73" width="65" height="19" uuid="d4a3bc04-7424-4f23-b8d5-65e15fa5489e"/>
+						<textElement>
+							<font size="8"/>
+						</textElement>
+						<text><![CDATA[Father's Name/]]></text>
+					</staticText>
+					<line>
+						<reportElement x="383" y="84" width="184" height="1" uuid="4c67e07e-e4f0-4161-85ea-5cbe02a9c049"/>
+						<graphicElement>
+							<pen lineWidth="0.25"/>
+						</graphicElement>
+					</line>
+					<staticText>
+						<reportElement x="349" y="75" width="47" height="17" uuid="d47cccea-78b1-45ce-b96d-46b0b45a6c27"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[মাতার নাম]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="291" y="76" width="65" height="19" uuid="2779ad38-1b35-454d-bd96-f9abf7b01521"/>
+						<textElement>
+							<font size="8"/>
+						</textElement>
+						<text><![CDATA[Mother'sName/]]></text>
+					</staticText>
+					<frame>
+						<reportElement x="3" y="89" width="124" height="26" uuid="b13ef4e3-47c4-4737-8d07-60a2fd2d152d"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<staticText>
+							<reportElement x="4" y="0" width="120" height="11" uuid="ff820c3a-4618-4641-b860-c0242e88353b"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Insured child’s siblilngs record/]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="10" y="11" width="114" height="14" uuid="9b340b92-c09f-4efd-b5ae-799e9984b25a"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[বিমাকৃত বাচ্চার ভাইবোনদের তথ্য]]></text>
+						</staticText>
+					</frame>
+					<frame>
+						<reportElement x="3" y="115" width="124" height="12" uuid="876952be-db45-4a9e-81f6-7c6d03d1dd23"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<staticText>
+							<reportElement x="17" y="0" width="35" height="11" uuid="fcf35232-4dae-47b2-9c0d-ec085df45797"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Brothers/]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="50" y="-1" width="41" height="13" uuid="ce55fc96-05ce-476e-a239-1167f4de4810"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[ভাই]]></text>
+						</staticText>
+					</frame>
+					<frame>
+						<reportElement x="127" y="89" width="43" height="26" uuid="74ff84a5-df54-4eb5-af86-706d372bbef7"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<staticText>
+							<reportElement x="3" y="7" width="17" height="11" uuid="8bda8ecc-69e2-4290-88ca-6bef7471d029"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Age/]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="19" y="6" width="21" height="19" uuid="332ed0e5-d7a8-4636-99bb-a8e405734174"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[বয়স]]></text>
+						</staticText>
+						<frame>
+							<reportElement x="0" y="26" width="43" height="12" uuid="90412d29-1337-4dce-8896-846ca9433f34"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+						</frame>
+					</frame>
+					<frame>
+						<reportElement x="170" y="89" width="125" height="26" uuid="a63266a6-f13a-4697-975f-d734b4d5e4bb"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<staticText>
+							<reportElement x="2" y="0" width="122" height="11" uuid="de53155c-d4d1-4482-9ffd-ab4b398730d1"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Insurance existing and applied for/]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="9" y="11" width="114" height="14" uuid="8f20c382-1c0a-4d2b-8bbf-c86675127edc"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[বর্তমানে চালু এবং আবেদনকৃত বিমা]]></text>
+						</staticText>
+					</frame>
+					<frame>
+						<reportElement x="170" y="115" width="125" height="12" uuid="b8887559-03b2-4198-92cb-6aa3177b888f"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+					</frame>
+					<frame>
+						<reportElement x="295" y="89" width="122" height="26" uuid="cf1076ce-9317-4e14-a46d-fdb397c1bc6b"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<staticText>
+							<reportElement x="3" y="0" width="114" height="11" uuid="18795626-6ea7-449e-8f3b-067cee49659c"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Insured child’s siblilngs record/]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="11" y="11" width="106" height="14" uuid="607309c5-e9b1-4efe-9eb2-4568940555bf"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[বিমাকৃত বাচ্চার ভাইবোনদের তথ্য]]></text>
+						</staticText>
+					</frame>
+					<frame>
+						<reportElement x="295" y="115" width="122" height="12" uuid="f21de32e-a729-4a9b-acf1-ca1de96132a7"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<staticText>
+							<reportElement x="27" y="0" width="35" height="11" uuid="3215e08b-acca-4370-8562-9392b6c9ff05"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Sisters/]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="60" y="-1" width="41" height="13" uuid="4da29086-564e-434a-a63c-4d7f2002ba77"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[বোন]]></text>
+						</staticText>
+					</frame>
+					<frame>
+						<reportElement x="454" y="115" width="125" height="12" uuid="3011760e-af51-4f99-b257-5137eb04e5c8"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+					</frame>
+					<frame>
+						<reportElement x="454" y="89" width="125" height="26" uuid="aa4d8ee6-5f29-44e3-92dc-0e4640c761a3"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<staticText>
+							<reportElement x="1" y="0" width="122" height="11" uuid="8c791548-287b-46fa-8367-7739afe217f3"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Insurance existing and applied for/]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="7" y="11" width="114" height="14" uuid="022b5bc9-d6aa-459a-9b97-2d1a85412f4b"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[বর্তমানে চালু এবং আবেদনকৃত বিমা]]></text>
+						</staticText>
+					</frame>
+					<frame>
+						<reportElement x="417" y="115" width="37" height="12" uuid="72587259-5564-4e18-a5d9-cc3f2ff24686"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+					</frame>
+					<frame>
+						<reportElement x="417" y="89" width="37" height="26" uuid="4eee057b-ab50-4f5e-850a-4dec1b10a869"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<staticText>
+							<reportElement x="3" y="7" width="17" height="11" uuid="d1252920-c8d6-48ea-9eda-3969bb50620a"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Age/]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="19" y="6" width="18" height="19" uuid="c90264d7-e1a5-4185-9832-6855afe7c58e"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[বয়স]]></text>
+						</staticText>
+					</frame>
 				</frame>
 			</frame>
 		</band>
