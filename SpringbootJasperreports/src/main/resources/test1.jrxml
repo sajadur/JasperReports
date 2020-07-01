@@ -1613,6 +1613,190 @@ Hotline-16344 or 09666716344
 							</graphicElement>
 						</line>
 					</frame>
+					<frame>
+						<reportElement x="346" y="0" width="234" height="452" uuid="b8718147-a88d-4bb8-a2bb-183de7c3a727"/>
+						<staticText>
+							<reportElement x="6" y="3" width="122" height="14" uuid="c06759eb-3032-4e15-91eb-249f1f5fb9e5"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[ Tick (√) the Appropriate Boxes / ]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="125" y="2" width="82" height="20" uuid="483f0f7d-09b1-4722-9add-1863d6561be1"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[সঠিক বক্সে টিক (√) দিন]]></text>
+						</staticText>
+						<rectangle>
+							<reportElement x="4" y="23" width="14" height="13" uuid="aa49b3bd-d490-4907-ab6d-8e5061afc1d4"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</rectangle>
+						<staticText>
+							<reportElement x="21" y="23" width="27" height="19" uuid="df5a2c7e-ea1d-416b-bfb7-bb23d477ad9b"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Male /]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="48" y="21" width="31" height="21" uuid="5b49cdea-60e0-439a-b0a3-047faff97481"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[পুরুষ]]></text>
+						</staticText>
+						<rectangle>
+							<reportElement x="4" y="40" width="14" height="13" uuid="e6ecf64d-7391-4dd5-bb3f-a8b9788f25ae"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</rectangle>
+						<staticText>
+							<reportElement x="21" y="40" width="39" height="19" uuid="cb8a449e-af30-4f80-a52d-a1b12cad27f1"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Female /]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="54" y="38" width="31" height="21" uuid="4b78f879-a5b9-4b9c-935d-3edff0884fbc"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[নারী]]></text>
+						</staticText>
+						<frame>
+							<reportElement x="100" y="20" width="129" height="171" uuid="c858c67f-f624-420f-9669-5be32af1f91c"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+						</frame>
+						<line>
+							<reportElement x="6" y="59" width="88" height="1" uuid="67eecbbc-1803-4232-b615-b37052d6b058"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<rectangle>
+							<reportElement x="5" y="65" width="14" height="13" uuid="a1295e1c-b51e-4ba1-9fc2-1dce359dbde7"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</rectangle>
+						<staticText>
+							<reportElement x="22" y="65" width="39" height="19" uuid="9379b0e1-b8cd-4ef0-b923-1e9017401b35"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Married /]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="56" y="64" width="31" height="21" uuid="6826c4a6-c761-4b16-8a3f-9bcf721dce33"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[বিবাহিত]]></text>
+						</staticText>
+						<rectangle>
+							<reportElement x="5" y="80" width="14" height="13" uuid="a2271066-c28e-4ab1-a5fe-bbd32329ab6f"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</rectangle>
+						<staticText>
+							<reportElement x="22" y="80" width="77" height="19" uuid="4a462657-5bd1-4129-8485-7e6d380e28b3"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Divorced / Separated ]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="22" y="90" width="68" height="15" uuid="980c521d-af58-4ed4-9619-10695458d15e"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[তালাকপ্রাপ্ত/ ]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="22" y="103" width="68" height="15" uuid="c516846b-ed28-461a-aa3d-a17581e2c2ab"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[পৃথকভাবে বসবাসকারী]]></text>
+						</staticText>
+						<rectangle>
+							<reportElement x="6" y="116" width="14" height="13" uuid="03dd5976-5212-48d1-bd33-8a25c126ad6c"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</rectangle>
+						<staticText>
+							<reportElement x="23" y="116" width="77" height="19" uuid="503979ed-bc97-4504-b58c-80db4d5ec508"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Widowed / ]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="23" y="128" width="68" height="15" uuid="3cdede5d-5e89-40d3-9652-1fba3478cc94"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[বিধবা/ বিপত্নীক]]></text>
+						</staticText>
+						<line>
+							<reportElement x="6" y="151" width="88" height="1" uuid="191c2817-c8c9-4765-82e5-bf9998c153f7"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="8" y="161" width="66" height="19" uuid="29c247e1-11dc-4e09-8481-f53dbeb69e23"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Country of Birth /]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="71" y="160" width="28" height="21" uuid="c98e86d4-3a83-4b0f-8a5f-1dfe0ffc1ad9"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[জন্মস্থান]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="107" y="134" width="119" height="19" uuid="1e5f2b6c-1ac4-4533-bdb2-8282497f7548"/>
+							<textElement textAlignment="Center">
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Attach a passport size color photograph]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="122" y="150" width="85" height="19" uuid="70d1ef34-ba09-42cd-9f30-5cc030949a51"/>
+							<textElement textAlignment="Center">
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[of the Adult Applicant /]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="108" y="164" width="111" height="21" uuid="1d973e65-0ea8-43ba-8369-3cdd73a83960"/>
+							<textElement textAlignment="Center">
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[প্রাপ্ত বয়স্ক আবেদনকারীর পাসপোর্ট সাইজের একটি ]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="132" y="177" width="52" height="21" uuid="87dc124b-b084-4fe9-ac73-6b2b436d9e4c"/>
+							<textElement textAlignment="Center">
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[রঙিন ছবি সংযুক্ত করুন]]></text>
+						</staticText>
+					</frame>
 				</frame>
 			</frame>
 		</band>

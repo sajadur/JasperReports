@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Jaspersoft Studio version 6.12.2.final using JasperReports Library version 6.12.2-75c5e90a222ab406e416cbf590a5397028a52de3  -->
 <jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Juvenile" pageWidth="632" pageHeight="951" columnWidth="592" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="f5ea8172-59f2-42c7-af96-1436c3d11ac9">
-	<property name="com.jaspersoft.studio.unit." value="mm"/>
-	<property name="com.jaspersoft.studio.unit.pageHeight" value="mm"/>
-	<property name="com.jaspersoft.studio.unit.pageWidth" value="mm"/>
-	<property name="com.jaspersoft.studio.unit.topMargin" value="mm"/>
-	<property name="com.jaspersoft.studio.unit.bottomMargin" value="mm"/>
-	<property name="com.jaspersoft.studio.unit.leftMargin" value="mm"/>
-	<property name="com.jaspersoft.studio.unit.rightMargin" value="mm"/>
-	<property name="com.jaspersoft.studio.unit.columnWidth" value="mm"/>
-	<property name="com.jaspersoft.studio.unit.columnSpacing" value="mm"/>
 	<style name="Table_TH" mode="Opaque" backcolor="#F0F8FF">
 		<box>
 			<pen lineWidth="0.5" lineColor="#000000"/>
