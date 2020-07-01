@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringbootJasperreports:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SpringbootJasperreports</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SpringbootJasperreports.war">
+      <element id="artifact" artifact-name="SpringbootJasperreports:war exploded" />
+    </root>
+  </artifact>
+</component>

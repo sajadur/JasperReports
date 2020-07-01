@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.12.2.final using JasperReports Library version 6.12.2-75c5e90a222ab406e416cbf590a5397028a52de3  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="test" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="8af67e67-c531-4d9c-8580-f33c64ebe09b">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="404" splitType="Stretch">
+			<image>
+				<reportElement x="20" y="10" width="90" height="40" uuid="888b3d06-45f2-428a-9f6a-74987866c339"/>
+				<imageExpression><![CDATA["E:/MOS/docs/logos/metlife_eng_logo_rgb.png"]]></imageExpression>
+			</image>
+			<image>
+				<reportElement x="170" y="11" width="118" height="45" uuid="7df27558-f0d8-496d-bed8-c41297ed807e"/>
+				<imageExpression><![CDATA["E:/MOS/docs/code.png"]]></imageExpression>
+			</image>
+			<frame>
+				<reportElement x="290" y="10" width="266" height="100" uuid="52609095-9b6c-4bfb-9db9-adb0d3dd6253"/>
+				<staticText>
+					<reportElement x="124" y="10" width="136" height="20" uuid="119673e5-7816-4fa2-8e0a-23ccf9272530"/>
+					<textElement textAlignment="Right">
+						<font isBold="true"/>
+					</textElement>
+					<text><![CDATA[Proposal Form (Juvenile)]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="5" y="29" width="254" height="20" uuid="a70d931e-bdf8-4206-bec3-4404f2378940"/>
+					<textElement textAlignment="Right">
+						<font size="8"/>
+					</textElement>
+					<text><![CDATA[(to be used for all polices on juvenile 15 years of age and under)]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="89" y="50" width="170" height="20" uuid="6b23d502-ad9e-4f14-a914-9f420db341ec"/>
+					<textElement textAlignment="Right">
+						<font fontName="Kalpurush"/>
+					</textElement>
+					<text><![CDATA[প্রস্তাবপত্র (অ-প্রাপ্তবয়স্ক)]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="1" y="69" width="258" height="20" uuid="9610e0f4-7486-48af-b53e-ecc4f20e9bfa"/>
+					<textElement textAlignment="Right">
+						<font fontName="Kalpurush" size="9"/>
+					</textElement>
+					<text><![CDATA[(১৫ বছর এবং তার নিচের অ-প্রাপ্তবয়স্কের সকল পলিসির জন্য ব্যবহৃত হবে)]]></text>
+				</staticText>
+			</frame>
+			<frame>
+				<reportElement x="290" y="120" width="266" height="90" uuid="ce5ac8a8-8b88-435b-a9bf-ce7b74d3f2fd"/>
+				<staticText>
+					<reportElement x="4" y="9" width="256" height="30" uuid="96024284-6352-4ec1-8a78-bdaa8596d484"/>
+					<textElement>
+						<font size="8"/>
+					</textElement>
+					<text><![CDATA[This form/receipt is valid only if completed and received at the
+company’s Registered Office in Bangladesh on or before.]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="5" y="39" width="256" height="40" uuid="35ab8240-ab97-43c6-9579-d2c8944dfacd"/>
+					<textElement>
+						<font fontName="Kalpurush" size="8"/>
+					</textElement>
+					<text><![CDATA[কেবল যে তারিখ বা তার পূর্বে এই ফর্ম/রিসিটটি বাংলাদেশে কোম্পানির নিবন্ধিত কার্যালয়ে পূরণকৃত এবং গৃহীত অবস্থায় বৈধ বলে গণ্য হবে।]]></text>
+				</staticText>
+			</frame>
+			<frame>
+				<reportElement x="0" y="59" width="180" height="110" uuid="182a6ac7-0251-4079-9dc5-6169e3cd414d"/>
+				<staticText>
+					<reportElement x="7" y="10" width="148" height="20" uuid="d262e5e7-ccd4-41b7-add4-0af5784a767c"/>
+					<textElement>
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[American Life Insurance Company]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="5" y="31" width="160" height="20" uuid="320210e1-eda7-4ec8-97bc-18e7266774dc"/>
+					<textElement>
+						<font size="7"/>
+					</textElement>
+					<text><![CDATA[(Incorporated in the U.S.A. as a Limited Company)]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="3" y="46" width="158" height="60" uuid="9fb25c62-4ea9-4a50-a21c-2d54423f188e"/>
+					<textElement>
+						<font size="8"/>
+					</textElement>
+					<text><![CDATA[Registered Office in Bangladesh:
+MetLife Building, 18-20 Motijheel C.A.,
+P.O. Box 9, Dhaka-1000, Bangladesh
+Hotline-16344 or 09666716344]]></text>
+				</staticText>
+			</frame>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="22" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="61" splitType="Stretch"/>
+	</columnHeader>
+	<detail>
+		<band height="125" splitType="Stretch"/>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

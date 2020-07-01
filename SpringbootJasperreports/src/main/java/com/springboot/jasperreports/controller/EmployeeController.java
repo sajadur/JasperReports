@@ -8,6 +8,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import net.sf.jasperreports.engine.design.JasperDesign;
+import net.sf.jasperreports.engine.xml.JRXmlLoader;
+import net.sf.jasperreports.view.JasperViewer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -67,10 +70,13 @@ public class EmployeeController {
 	// Method to create the pdf file using the employee list datasource.
 	private void createPdfReport(final List<Employee> employees, HttpServletResponse httpResponse) throws JRException {
 		// Fetching the .jrxml file from the resources folder.
-		final InputStream stream = this.getClass().getResourceAsStream("/Juvenile.jrxml");
+//		final InputStream stream = this.getClass().getResourceAsStream("/Juvenile.jasper");
+
+		final InputStream stream1 = this.getClass().getResourceAsStream("/test1.jrxml");
+
 
 		// Compile the Jasper report from .jrxml to .japser
-		final JasperReport report = JasperCompileManager.compileReport(stream);
+		final JasperReport report = JasperCompileManager.compileReport(stream1);
 
 		// Fetching the employees from the data source.
 		final JRBeanCollectionDataSource source = new JRBeanCollectionDataSource(employees);
@@ -80,7 +86,18 @@ public class EmployeeController {
 		parameters.put("createdBy", "javacodegeek.com");
 
 		// Filling the report with the employee data and additional parameters information.
-		final JasperPrint print = JasperFillManager.fillReport(report, parameters, source);
+//		final JasperPrint print = JasperFillManager.fillReport(stream, parameters, source);
+
+
+
+
+		final InputStream stream = this.getClass().getResourceAsStream("/test1.jrxml");
+
+		JasperDesign jasDesign = JRXmlLoader.load(stream);
+		JasperReport jasReport = JasperCompileManager.compileReport(jasDesign);
+		JasperPrint jasPrint = JasperFillManager.fillReport(jasReport, parameters, source);
+//		JasperViewer.viewReport(jasPrint,false);
+
 
 //		print.
 
@@ -90,7 +107,7 @@ public class EmployeeController {
 		final String filePath = "\\";
 		// Export the report to a PDF file.
 //		JasperExportManager.exportReportToPdfFile(print, filePath + "Employee_report.pdf");
-		writeWithProperFormat(httpResponse, print);
+		writeWithProperFormat(httpResponse, jasPrint);
 	}
 
 	public void writeWithProperFormat(HttpServletResponse httpResponse, JasperPrint print) {
