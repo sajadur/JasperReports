@@ -1614,7 +1614,7 @@ Hotline-16344 or 09666716344
 						</line>
 					</frame>
 					<frame>
-						<reportElement x="346" y="0" width="234" height="452" uuid="b8718147-a88d-4bb8-a2bb-183de7c3a727"/>
+						<reportElement x="346" y="0" width="235" height="452" uuid="b8718147-a88d-4bb8-a2bb-183de7c3a727"/>
 						<staticText>
 							<reportElement x="6" y="3" width="122" height="14" uuid="c06759eb-3032-4e15-91eb-249f1f5fb9e5"/>
 							<textElement>
@@ -1796,6 +1796,338 @@ Hotline-16344 or 09666716344
 							</textElement>
 							<text><![CDATA[রঙিন ছবি সংযুক্ত করুন]]></text>
 						</staticText>
+						<staticText>
+							<reportElement x="16" y="204" width="41" height="21" uuid="d6195d99-9def-493b-9e9b-4f30908d730d"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[জন্মতারিখ:]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="9" y="194" width="51" height="21" uuid="8d77de61-91b6-482a-8fb6-6f962b6338ad"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Date of Birth]]></text>
+						</staticText>
+						<line>
+							<reportElement x="56" y="203" width="108" height="1" uuid="ad2c988e-d258-40d5-99bd-64a4d3bee817"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="56" y="193" width="121" height="12" uuid="c1a40749-b75f-4e2b-9598-84322e7cafc2"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[/    /     /     /     /     /     /    /     /]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="57" y="206" width="120" height="14" uuid="cc1290a5-b69b-438a-99b8-09526f67c33b"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[D    D    M    M    Y    Y    Y    Y]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="179" y="197" width="23" height="15" uuid="01b14989-744c-4327-a24d-f566056a1bb3"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Age/]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="196" y="195" width="19" height="17" uuid="d0fb7d2e-b919-4d7a-9751-8f178c8062d8"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[বয়স]]></text>
+						</staticText>
+						<line>
+							<reportElement x="207" y="206" width="21" height="1" uuid="dd640aee-c43f-45a9-8bb7-34370cc024b6"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="210" y="195" width="22" height="18" uuid="dc61d916-9732-4c74-8b0c-0d45f340a91a"/>
+							<text><![CDATA[/  /  /]]></text>
+						</staticText>
+						<line>
+							<reportElement x="76" y="229" width="153" height="1" uuid="76470dab-e597-409c-914d-742b37078c83"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="10" y="228" width="64" height="21" uuid="ebeece98-d022-4252-835f-7121103f0071"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[জাতীয় পরিচয়পত্র নং]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="10" y="218" width="64" height="14" uuid="0428c27e-c152-4ae3-89e0-9bff9dd78cf8"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[National ID No. /]]></text>
+						</staticText>
+						<line>
+							<reportElement x="76" y="251" width="153" height="1" uuid="188d9795-843e-4818-a207-502352acc4f5"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="37" y="242" width="35" height="16" uuid="353d63aa-7c50-42a2-94c1-fd42f050f3dc"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[ই-টিআইএন]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="10" y="242" width="32" height="14" uuid="b88f75a3-1bda-4982-94be-209db433a172"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[E-TIN /]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="10" y="256" width="59" height="14" uuid="9fe60295-3e3d-4daf-9adf-601aed398686"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[ Annual Income/]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="69" y="255" width="30" height="16" uuid="00e398cc-b76b-4dd8-bbaf-3082e3bc7e2e"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[বাৎসরিক আয়   ]]></text>
+						</staticText>
+						<line>
+							<reportElement x="125" y="266" width="104" height="1" uuid="88bb2575-1bc6-4d15-9859-32511d9a90d7"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="97" y="257" width="16" height="14" uuid="cbcb4694-396b-4a47-815e-cc78bc63669a"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Tk. / ]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="113" y="256" width="9" height="16" uuid="4da09e96-040e-431b-a64a-aeebc7b9a5c4"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[৳.]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="11" y="273" width="90" height="14" uuid="a926412d-9510-49a7-899a-0a1ad0996882"/>
+							<textElement>
+								<font size="8"/>
+							</textElement>
+							<text><![CDATA[Special Request, if any /]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="99" y="272" width="86" height="16" uuid="e858d429-ef01-4168-b55f-c948752e7c5c"/>
+							<textElement>
+								<font fontName="Kalpurush" size="8"/>
+							</textElement>
+							<text><![CDATA[বিশেষ অনুরোধ, যদি থাকে]]></text>
+						</staticText>
+						<line>
+							<reportElement x="11" y="308" width="218" height="1" uuid="121cd130-26e5-45c7-81c3-bacd284531a8"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<frame>
+							<reportElement x="0" y="320" width="235" height="63" uuid="248a6dc1-fe14-425f-8182-9e3f3adeca7c"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<staticText>
+								<reportElement x="11" y="3" width="116" height="14" uuid="57a26c9a-77b4-4d89-b0be-77f83b3b1b69"/>
+								<textElement>
+									<font size="8"/>
+								</textElement>
+								<text><![CDATA[Premium / Contribution Mode /]]></text>
+							</staticText>
+							<staticText>
+								<reportElement x="123" y="3" width="104" height="16" uuid="75a7faff-3f8f-4279-9f6b-cb449a2b7929"/>
+								<textElement>
+									<font fontName="Kalpurush" size="8"/>
+								</textElement>
+								<text><![CDATA[প্রিমিয়াম/ অবদান প্রদানের ধরন]]></text>
+							</staticText>
+							<rectangle>
+								<reportElement x="12" y="26" width="10" height="10" uuid="70473c4b-6863-4036-bac7-70f19139efc5"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<staticText>
+								<reportElement x="26" y="26" width="40" height="19" uuid="ddc8000b-c1f3-46fc-982c-a4a28c3d7473"/>
+								<textElement>
+									<font size="8"/>
+								</textElement>
+								<text><![CDATA[ Monthly /]]></text>
+							</staticText>
+							<staticText>
+								<reportElement x="63" y="25" width="28" height="17" uuid="850c6fd5-4e68-41e2-94ac-861acae04770"/>
+								<textElement>
+									<font fontName="Kalpurush" size="8"/>
+								</textElement>
+								<text><![CDATA[মাসিক]]></text>
+							</staticText>
+							<rectangle>
+								<reportElement x="144" y="27" width="10" height="10" uuid="142f9af7-db22-41f2-b81e-b352c791cbf1"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<staticText>
+								<reportElement x="157" y="27" width="44" height="19" uuid="137fce01-b28c-417c-98f7-1f07e19efba9"/>
+								<textElement>
+									<font size="8"/>
+								</textElement>
+								<text><![CDATA[ Quarterly / ]]></text>
+							</staticText>
+							<staticText>
+								<reportElement x="198" y="26" width="28" height="17" uuid="952584b9-96d1-42cf-b3f4-f0c5d69319c5"/>
+								<textElement>
+									<font fontName="Kalpurush" size="8"/>
+								</textElement>
+								<text><![CDATA[ত্রৈমাসিক]]></text>
+							</staticText>
+							<rectangle>
+								<reportElement x="13" y="43" width="10" height="10" uuid="2cd466cd-0cc5-464e-af02-6885e45b2ba6"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<staticText>
+								<reportElement x="27" y="43" width="60" height="19" uuid="d69b9bf0-7fac-458d-b501-76d5a8677cdd"/>
+								<textElement>
+									<font size="8"/>
+								</textElement>
+								<text><![CDATA[Semi-Annually / ]]></text>
+							</staticText>
+							<staticText>
+								<reportElement x="85" y="42" width="28" height="17" uuid="f4385009-fff3-4777-a8c5-8e73c4caab66"/>
+								<textElement>
+									<font fontName="Kalpurush" size="8"/>
+								</textElement>
+								<text><![CDATA[ষান্মাষিক]]></text>
+							</staticText>
+							<rectangle>
+								<reportElement x="145" y="44" width="10" height="10" uuid="debc4683-e182-463a-8f8a-2159d7c763b8"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<staticText>
+								<reportElement x="158" y="44" width="44" height="16" uuid="2fee5803-9e22-46f9-8ba7-e688adb6f361"/>
+								<textElement>
+									<font size="8"/>
+								</textElement>
+								<text><![CDATA[Annually / ]]></text>
+							</staticText>
+							<staticText>
+								<reportElement x="197" y="43" width="28" height="17" uuid="c86d6597-897b-4f1b-a784-e39114d4ee69"/>
+								<textElement>
+									<font fontName="Kalpurush" size="8"/>
+								</textElement>
+								<text><![CDATA[বার্ষিক]]></text>
+							</staticText>
+						</frame>
+						<frame>
+							<reportElement x="0" y="383" width="235" height="70" uuid="444519b5-5849-4076-9ab4-3386a344e995"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<staticText>
+								<reportElement x="11" y="3" width="116" height="14" uuid="b5951b03-c6aa-4ceb-afed-75d066b16552"/>
+								<textElement>
+									<font size="8"/>
+								</textElement>
+								<text><![CDATA[ Address of Correspondence/ ]]></text>
+							</staticText>
+							<staticText>
+								<reportElement x="120" y="3" width="104" height="16" uuid="ecbdd730-b8e7-45b7-b404-620a4e00004f"/>
+								<textElement>
+									<font fontName="Kalpurush" size="8"/>
+								</textElement>
+								<text><![CDATA[যোগাযোগের ঠিকানা]]></text>
+							</staticText>
+							<staticText>
+								<reportElement x="26" y="26" width="48" height="19" uuid="8f4b86dd-55e8-41b5-bf0b-a089deda7ced"/>
+								<textElement>
+									<font size="8"/>
+								</textElement>
+								<text><![CDATA[Permanent/ ]]></text>
+							</staticText>
+							<staticText>
+								<reportElement x="70" y="25" width="28" height="17" uuid="fc7f2e07-13bc-4f54-978b-8c50ac79e8c6"/>
+								<textElement>
+									<font fontName="Kalpurush" size="8"/>
+								</textElement>
+								<text><![CDATA[স্থায়ী ]]></text>
+							</staticText>
+							<rectangle>
+								<reportElement x="12" y="26" width="10" height="10" uuid="dc8396b0-98e3-434a-856b-1fa449459c3b"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="144" y="27" width="10" height="10" uuid="ac9ab6a6-b73c-4e19-ae56-d76492f87245"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<staticText>
+								<reportElement x="157" y="27" width="44" height="19" uuid="7fbbc31c-5d4b-4e94-b2fe-777c60c2a417"/>
+								<textElement>
+									<font size="8"/>
+								</textElement>
+								<text><![CDATA[Residence/]]></text>
+							</staticText>
+							<staticText>
+								<reportElement x="199" y="26" width="28" height="17" uuid="d3557065-f5f0-4b88-8c3b-cba587fecf87"/>
+								<textElement>
+									<font fontName="Kalpurush" size="8"/>
+								</textElement>
+								<text><![CDATA[বসবাসের]]></text>
+							</staticText>
+							<staticText>
+								<reportElement x="65" y="42" width="37" height="17" uuid="5dd2b393-c065-4917-a8e1-90f12f5757a3"/>
+								<textElement>
+									<font fontName="Kalpurush" size="8"/>
+								</textElement>
+								<text><![CDATA[কর্মস্থল]]></text>
+							</staticText>
+							<staticText>
+								<reportElement x="27" y="43" width="42" height="19" uuid="d5e1bbc8-6487-4ed3-9301-d7ec9e62b243"/>
+								<textElement>
+									<font size="8"/>
+								</textElement>
+								<text><![CDATA[Business/]]></text>
+							</staticText>
+							<rectangle>
+								<reportElement x="13" y="43" width="10" height="10" uuid="989b38b7-95aa-4653-a35d-9072da375209"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+						</frame>
 					</frame>
 				</frame>
 			</frame>
