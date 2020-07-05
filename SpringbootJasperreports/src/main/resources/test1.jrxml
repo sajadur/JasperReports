@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created with Jaspersoft Studio version 6.12.2.final using JasperReports Library version 6.12.2-75c5e90a222ab406e416cbf590a5397028a52de3  -->
-<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Juvenile" pageWidth="632" pageHeight="864" columnWidth="592" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="f5ea8172-59f2-42c7-af96-1436c3d11ac9">
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="Juvenile" pageWidth="632" pageHeight="909" columnWidth="592" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="f5ea8172-59f2-42c7-af96-1436c3d11ac9">
 	<style name="Table_TH" mode="Opaque" backcolor="#F0F8FF">
 		<box>
 			<pen lineWidth="0.5" lineColor="#000000"/>
@@ -62,10 +62,10 @@
 		<band splitType="Stretch"/>
 	</background>
 	<title>
-		<band height="824" splitType="Stretch">
+		<band height="869" splitType="Stretch">
 			<property name="com.jaspersoft.studio.layout" value="com.jaspersoft.studio.editor.layout.FreeLayout"/>
 			<frame>
-				<reportElement x="-1" y="-1" width="591" height="821" uuid="de095896-d918-4d44-90b4-19c32e9c6644"/>
+				<reportElement x="-1" y="-1" width="591" height="860" uuid="de095896-d918-4d44-90b4-19c32e9c6644"/>
 				<frame>
 					<reportElement x="0" y="0" width="591" height="232" uuid="3ab2ed17-a3e6-4d3e-aa09-f2158e94c7e5"/>
 					<image>
@@ -751,7 +751,7 @@ Hotline-16344 or 09666716344
 						<topPen lineWidth="0.25"/>
 					</box>
 					<frame>
-						<reportElement x="0" y="0" width="346" height="458" uuid="c15d96e3-c571-4dfa-9859-3c93401d16bc"/>
+						<reportElement x="0" y="0" width="346" height="453" uuid="c15d96e3-c571-4dfa-9859-3c93401d16bc"/>
 						<box>
 							<pen lineWidth="0.25"/>
 							<topPen lineWidth="0.0"/>
@@ -1607,7 +1607,7 @@ Hotline-16344 or 09666716344
 							<text><![CDATA[ই-মেইল]]></text>
 						</staticText>
 						<line>
-							<reportElement x="58" y="449" width="278" height="1" uuid="fe1203e3-5441-4776-974d-a8c5c1e16c7d"/>
+							<reportElement x="58" y="450" width="278" height="1" uuid="fe1203e3-5441-4776-974d-a8c5c1e16c7d"/>
 							<graphicElement>
 								<pen lineWidth="0.25"/>
 							</graphicElement>
@@ -2052,6 +2052,7 @@ Hotline-16344 or 09666716344
 							<reportElement x="0" y="383" width="235" height="70" uuid="444519b5-5849-4076-9ab4-3386a344e995"/>
 							<box>
 								<pen lineWidth="0.25"/>
+								<bottomPen lineWidth="0.0"/>
 							</box>
 							<staticText>
 								<reportElement x="11" y="3" width="116" height="14" uuid="b5951b03-c6aa-4ceb-afed-75d066b16552"/>
@@ -2129,6 +2130,113 @@ Hotline-16344 or 09666716344
 							</rectangle>
 						</frame>
 					</frame>
+				</frame>
+				<frame>
+					<reportElement x="10" y="818" width="581" height="42" uuid="b5aa63e3-94a2-4970-8352-d44cb5969c2a"/>
+					<box>
+						<pen lineWidth="0.25"/>
+						<topPen lineWidth="0.0"/>
+					</box>
+					<staticText>
+						<reportElement x="9" y="5" width="249" height="12" uuid="8b8b8fdf-7f31-4f5d-a1fc-815eb9f03a45"/>
+						<textElement>
+							<font size="8" isBold="true"/>
+						</textElement>
+						<text><![CDATA[A. DETAILS OF CHILD HEREIN CALLED PROPOSED INSURED /]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="254" y="4" width="248" height="14" uuid="ecb7d06a-00f4-43d8-804a-d33ea930ec0e"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[এই আবেদনপত্রের সাথে পরিশধিত অর্থের বিবরন ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="10" y="20" width="16" height="14" uuid="2059e34b-e5de-4e42-86e9-a0ffc7bae99e"/>
+						<textElement>
+							<font size="8"/>
+						</textElement>
+						<text><![CDATA[Tk. / ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="26" y="19" width="9" height="16" uuid="ba9185d2-ff15-4e9f-a533-89118695717f"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[৳.]]></text>
+					</staticText>
+					<line>
+						<reportElement x="38" y="31" width="81" height="1" uuid="6624bc87-2552-44a6-8303-0de3a44c31f8"/>
+						<graphicElement>
+							<pen lineWidth="0.25"/>
+						</graphicElement>
+					</line>
+					<rectangle>
+						<reportElement x="128" y="24" width="10" height="10" uuid="a5e4b587-ce95-424a-9ee4-244329c5bba5"/>
+						<graphicElement>
+							<pen lineWidth="0.25"/>
+						</graphicElement>
+					</rectangle>
+					<staticText>
+						<reportElement x="142" y="22" width="24" height="19" uuid="ddfc46f0-7441-4896-a783-c21c929f57d1"/>
+						<textElement>
+							<font size="8"/>
+						</textElement>
+						<text><![CDATA[Cash / ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="169" y="20" width="28" height="17" uuid="0a5cce72-4208-42fd-88e0-42b5925cc3a6"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[নগদ  ]]></text>
+					</staticText>
+					<rectangle>
+						<reportElement x="204" y="26" width="10" height="8" uuid="7592bdf4-579e-44fc-bfa5-6a66ce477acf"/>
+						<graphicElement>
+							<pen lineWidth="0.25"/>
+						</graphicElement>
+					</rectangle>
+					<staticText>
+						<reportElement x="218" y="23" width="48" height="17" uuid="a92a36b0-d88d-4689-b62f-46afbab3f0b6"/>
+						<textElement>
+							<font size="8"/>
+						</textElement>
+						<text><![CDATA[Cheque No / ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="265" y="21" width="28" height="15" uuid="44b785ac-62d6-463b-bd7b-770261b3cc6c"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[চেক নং]]></text>
+					</staticText>
+					<line>
+						<reportElement x="291" y="33" width="94" height="1" uuid="8d293988-6c66-4148-a43e-de3cfa58591e"/>
+						<graphicElement>
+							<pen lineWidth="0.25"/>
+						</graphicElement>
+					</line>
+					<staticText>
+						<reportElement x="421" y="22" width="35" height="16" uuid="ba489dba-2069-45dc-a0a1-1acf7a4db942"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[ই-টিআইএন]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="394" y="23" width="32" height="14" uuid="6e9d3c2e-fe76-4694-a784-39b0be2dc142"/>
+						<textElement>
+							<font size="8"/>
+						</textElement>
+						<text><![CDATA[E-TIN /]]></text>
+					</staticText>
+					<line>
+						<reportElement x="460" y="32" width="117" height="1" uuid="5911a046-caa5-431c-b1b7-c07f8dae0e7c"/>
+						<graphicElement>
+							<pen lineWidth="0.25"/>
+						</graphicElement>
+					</line>
 				</frame>
 			</frame>
 		</band>
