@@ -91,7 +91,7 @@ public class EmployeeController {
 
 
 
-		final InputStream stream = this.getClass().getResourceAsStream("/test1.jrxml");
+		final InputStream stream = this.getClass().getResourceAsStream("/juvenile_page4.jrxml");
 
 		JasperDesign jasDesign = JRXmlLoader.load(stream);
 		JasperReport jasReport = JasperCompileManager.compileReport(jasDesign);

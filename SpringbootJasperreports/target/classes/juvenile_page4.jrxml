@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.12.2.final using JasperReports Library version 6.12.2-75c5e90a222ab406e416cbf590a5397028a52de3  -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="juvenile_page4" pageWidth="631" pageHeight="901" columnWidth="591" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="f3198e59-8a6e-4d07-bb19-0b7219e4bee8">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="One Empty Record"/>
+	<property name="com.jaspersoft.studio.unit." value="mm"/>
+	<property name="com.jaspersoft.studio.unit.pageHeight" value="mm"/>
+	<property name="com.jaspersoft.studio.unit.pageWidth" value="mm"/>
+	<property name="com.jaspersoft.studio.unit.topMargin" value="mm"/>
+	<property name="com.jaspersoft.studio.unit.bottomMargin" value="mm"/>
+	<property name="com.jaspersoft.studio.unit.leftMargin" value="mm"/>
+	<property name="com.jaspersoft.studio.unit.rightMargin" value="mm"/>
+	<property name="com.jaspersoft.studio.unit.columnWidth" value="mm"/>
+	<property name="com.jaspersoft.studio.unit.columnSpacing" value="mm"/>
+	<queryString>
+		<![CDATA[]]>
+	</queryString>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="861" splitType="Stretch">
+			<frame>
+				<reportElement x="-3" y="0" width="590" height="861" uuid="c6b2fe51-b33e-445b-9aa5-3a07f19d4efa"/>
+				<box>
+					<pen lineWidth="0.25"/>
+				</box>
+				<staticText>
+					<reportElement x="5" y="8" width="155" height="12" uuid="d8d15378-73f1-41e0-b4b6-33a2703e56cd"/>
+					<textElement>
+						<font size="8" isBold="true"/>
+					</textElement>
+					<text><![CDATA[H. DECLARATION AND UNDERTAKING/]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="159" y="6" width="97" height="14" uuid="203789e3-188d-4ff6-beb9-a0e1ca7b41a5"/>
+					<textElement>
+						<font fontName="Kalpurush" size="8"/>
+					</textElement>
+					<text><![CDATA[ঘোষণাপত্র এবং অঙ্গীকারনামা]]></text>
+				</staticText>
+				<frame>
+					<reportElement x="17" y="41" width="570" height="238" uuid="230cb70d-6ad1-44b5-9f38-4c9e1a1869a6"/>
+					<staticText>
+						<reportElement x="1" y="0" width="569" height="20" uuid="5c3bb2a1-5ae5-4ec8-bd44-e5f3a098a641"/>
+						<textElement>
+							<font size="7"/>
+						</textElement>
+						<text><![CDATA[a.   the proposed insured(s) are now in good health. I/we agree that this policy will become effective if this application has been made and first premium/contribution fully paid hereon, no change shall have occurred in the insurability of the Proposed Insured(s) since completion of this application, and same date and printed number are shown in the conditional receipt ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="19" width="60" height="18" uuid="971bc4b2-b3e2-4d1a-a7f6-27db05eba7ad"/>
+						<textElement>
+							<font size="8"/>
+						</textElement>
+						<text><![CDATA[and application./]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="60" y="18" width="510" height="17" uuid="5907ebec-0389-45b5-81ed-fa0770b0264a"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[প্রস্তাবিত বিমাকৃত ব্যক্তি (গণ) বর্তমানে শারীরিকভাবে সুস্থ। আমি/আমরা এই মর্মে সম্মত হচ্ছি যে, এই বিমা কার্যকর হবে যদি আবেদনপত্র পূরন করা হয় এবং প্রথম প্রিমিয়াম/ অবদান সম্পূর্ণরূপে প্রদান করা হয়, ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="31" width="570" height="17" uuid="dffcbfd1-ddfb-4c42-8add-ad7026b69a3d"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[ অবদান সম্পূর্ণরূপে প্রদান করা হয়, আবেদনপত্র পূরণ করার পরে প্রস্তাবিত বিমাকৃত ব্যক্তি (গণের) বিমা যোগ্যতার কোন ধরণের পরিবর্তন না হয় এবং আবেদনপত্রে ও কন্ডিশনাল রিসিট ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="1" y="44" width="78" height="18" uuid="fc02fe0f-ad58-47b8-b4a0-f273cc3ee8ff"/>
+						<textElement>
+							<font size="8"/>
+						</textElement>
+						<text><![CDATA[(conditional receipt)]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="71" y="44" width="178" height="17" uuid="72f2231e-6427-439e-9273-0ab96344b2b8"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[)-এ একই তারিখ এবং একই ছাপানো নম্বর দেখানো হয়।]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="58" width="569" height="16" uuid="3ea0fc39-55b9-4cf6-a6c5-4d084c60a0c9"/>
+						<textElement>
+							<font size="7"/>
+						</textElement>
+						<text><![CDATA[b.   all statements and answers in this application together with those in any required medical examination, questionnaire or amendments are full, complete and true and bind all parties ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="68" width="160" height="18" uuid="5f3cc33c-ea60-4557-b97f-7fc77f5dbb11"/>
+						<textElement>
+							<font size="8"/>
+						</textElement>
+						<text><![CDATA[in interest under the policy herein applied for/]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="162" y="66" width="408" height="17" uuid="e4db9930-7ad4-4a4d-b035-e92d4ea0b37a"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[এই আবেদনপত্রে প্রদত্ত সকল বিবৃতি এবং প্রশ্নোত্তর একই সাথে যে কোন প্রয়োজনীয় মেডিক্যাল পরীক্ষা, প্রশ্নমালা বা সংশোধনীসমূহ সম্পূর্ণ, পূর্ণাঙ্গ ও সত্য এবং এসকল কিছু আবেদনকৃত বিমা পলিসির সাথে স্বার্থসংশ্লিষ্ট সকল পক্ষকে বাধ্যবাধকতার আওতায় আনবে।]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="80" width="408" height="17" uuid="9242bd83-f671-4027-b8ea-bff0c72f85fc"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[পূর্ণাঙ্গ ও সত্য এবং এসকল কিছু আবেদনকৃত বিমা পলিসির সাথে স্বার্থসংশ্লিষ্ট সকল পক্ষকে বাধ্যবাধকতার আওতায় আনবে।]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="95" width="569" height="16" uuid="200566c0-5c34-4c8b-ae59-41ffac5cd7a8"/>
+						<textElement>
+							<font size="7"/>
+						</textElement>
+						<text><![CDATA[c.   except an authorized officer of the Company, no financial associate or medical examiner or other person is permitted to make or discharge contracts or waive or change any of the]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="105" width="360" height="18" uuid="2baa993e-3952-48d5-b058-75d759b5959b"/>
+						<textElement>
+							<font size="8"/>
+						</textElement>
+						<text><![CDATA[ conditions of provision of application, policy, or receipt, or to accept risks or pass upon insurability./]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="354" y="103" width="208" height="17" uuid="8d8c50a9-e497-4aaa-893c-ee85f6dab7da"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[এই আবেদনপত্রে প্রদত্ত সকল বিবৃতি এবং প্রশ্নোত্তর একই সাথে যে কোন প্রয়োজনীয় মেডিক্যাল পরীক্ষা, প্রশ্নমালা বা সংশোধনীসমূহ সম্পূর্ণ, পূর্ণাঙ্গ ও সত্য এবং এসকল কিছু আবেদনকৃত বিমা পলিসির সাথে স্বার্থসংশ্লিষ্ট সকল পক্ষকে বাধ্যবাধকতার আওতায় আনবে।]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="117" width="408" height="17" uuid="68ba6249-b13d-47d5-b062-ea2f0e6cfd02"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[পূর্ণাঙ্গ ও সত্য এবং এসকল কিছু আবেদনকৃত বিমা পলিসির সাথে স্বার্থসংশ্লিষ্ট সকল পক্ষকে বাধ্যবাধকতার আওতায় আনবে।]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="133" width="569" height="16" uuid="4f453353-76b7-4960-a77c-982c891fbf56"/>
+						<textElement>
+							<font size="7"/>
+						</textElement>
+						<text><![CDATA[d.   notice to or knowledge of any financial associate or medical examiner is not notice to or knowledge of the Company unless stated in either this application or in any medical ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="143" width="50" height="18" uuid="5bf7d9ca-75aa-46f2-888e-fe0ac6bb7d79"/>
+						<textElement>
+							<font size="8"/>
+						</textElement>
+						<text><![CDATA[examination./]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="50" y="141" width="512" height="17" uuid="b9abacfc-6097-45ee-a3f5-bf18ec2c086f"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[./ ফিনান্সিয়াল অ্যাসোসিয়েট অথবা মেডিক্যাল পরীক্ষককে প্রদত্ত কোন নোটিশ বা তাদের কোন অবগতি কোম্পানিকে প্রদত্ত নোটিশ আথবা কোম্পানির অবগতি হিসাবে গণ্য হবে না ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="155" width="408" height="17" uuid="b2dd7a7a-a76a-4945-882d-d19deecb3ca0"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[যদি না তা এই আবেদনপত্রে অথবা অন্য কোন মেডিক্যাল পরীক্ষায় বিবৃত থাকে।]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="172" width="370" height="18" uuid="8ad33ae6-73ae-446f-8b67-18f2dc18b878"/>
+						<textElement>
+							<font size="8"/>
+						</textElement>
+						<text><![CDATA[e.   no right to borrow, surrender or assign or other privilege of ownership may be exercised by a minor; and/]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="370" y="170" width="192" height="17" uuid="8ad9d9ca-e7d1-4f69-ac4b-dc19961a0a43"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[নাবালক কর্তৃক ঋণ গ্রহণ, প্রত্যর্পণ অথবা সত্বদান অথবা ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="184" width="408" height="17" uuid="940863ef-9294-44ad-812b-e66110b916c7"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[মালিকানার অন্যান্য সুবিধা ব্যবহারের কোন অধিকার থাকবে না; এবং]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="180" y="207" width="382" height="17" uuid="700efb78-ccc5-4eb4-8c91-2ded4354b5b7"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[কোন ইস্যুকৃত পলিসির আবেদনপত্রে কোন সংশোধনের অনুসমর্থন অথবা পরিবর্তনের স্বীকৃতি পলিসির বিমা বিনির্দেশ তফসিলের ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="209" width="180" height="18" uuid="05e3ea2d-142b-46ef-b0b7-68987b63b304"/>
+						<textElement>
+							<font size="8"/>
+						</textElement>
+						<text><![CDATA[only’ of policy specification schedule of the policy./]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="199" width="569" height="16" uuid="27a2fcb0-ea9f-40d7-8bd1-24cd6f4d40d5"/>
+						<textElement>
+							<font size="7"/>
+						</textElement>
+						<text><![CDATA[f.   acceptance of ratification of any correction or change to the application with which the policy issued shall be stated in the space entitled ‘Endorsements to be made by the Company ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="0" y="221" width="408" height="17" uuid="83ce5ee4-ac90-407b-863c-05841c20c811"/>
+						<textElement>
+							<font fontName="Kalpurush" size="8"/>
+						</textElement>
+						<text><![CDATA[যদি না তা এই আবেদনপত্রে অথবা ‘শুধুমাত্র কোম্পানির তৈরিকৃত পৃষ্ঠাঙ্কন’ অংশে উল্লেখ থাকবে।অন্য কোন মেডিক্যাল পরীক্ষায় বিবৃত থাকে।]]></text>
+					</staticText>
+				</frame>
+				<staticText>
+					<reportElement x="5" y="22" width="245" height="19" uuid="04c18105-9d8f-4ca9-a6dc-469a330cda8b"/>
+					<textElement>
+						<font size="8"/>
+					</textElement>
+					<text><![CDATA[1.   I and the policy owner (as applicable) “we” hereby declare that/]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="243" y="21" width="236" height="17" uuid="0c4afece-cd6a-463a-bce5-79aae9125b44"/>
+					<textElement>
+						<font fontName="Kalpurush" size="8"/>
+					</textElement>
+					<text><![CDATA[আমি এবং বিমা গ্রাহক (প্রযোজ্য ক্ষেত্রে) ”আমরা” এই মর্মে ঘোষণা করছি যে-]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="7" y="284" width="580" height="16" uuid="0e1a0993-789f-4d0d-950e-e2bd12badc75"/>
+					<textElement>
+						<font size="8"/>
+					</textElement>
+					<text><![CDATA[2.   I/we hereby authorize any physician, hospital, insurance company or other organization that has any records or knowledge of me/us or my/our proposed family ]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="296" y="311" width="291" height="17" uuid="490e7220-6b5f-4a4d-9d61-1fb6bc058e24"/>
+					<textElement>
+						<font fontName="Kalpurush" size="8"/>
+					</textElement>
+					<text><![CDATA[আমি/আমরা এতদ্বারা কোন চিকিৎসক, হাসপাতাল, বিমা কোম্পানি অথবা অন্য কোন প্রতিষ্ঠানের কাছে আমার/আমাদের অথবা আমার/আমাদের পরিবারের প্রস্তাবিত বিমাকৃত সদস্যগণের কোন স্বাস্থ্য সংক্রান্ত তথ্য, চিকিৎসার ইতিহাস, হাসপাতালে ভর্তি সংক্রান্ত কোন তথ্য বা নথিপত্র থাকলে তা কোম্পানিকে দেওয়ার অনুমোদন প্রদান করছি। এই অনুমোদনের কোন অনুলিপি মূল অনুমোদনের মতই বৈধ হবে।]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="7" y="298" width="580" height="16" uuid="367b7c75-1ef6-41d2-a083-ab433fd0718e"/>
+					<textElement>
+						<font size="8"/>
+					</textElement>
+					<text><![CDATA[members for insurance to give to the Company any and all information about me/us or my family with reference to my/our health and medical history and any hospitalization. A photocopy of this authorization shall be as valid as the original./]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="7" y="311" width="293" height="16" uuid="d76a3122-c5c7-4d12-8d09-b498dc10a344"/>
+					<textElement>
+						<font size="8"/>
+					</textElement>
+					<text><![CDATA[hospitalization. A photocopy of this authorization shall be as valid as the original./]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="7" y="324" width="580" height="17" uuid="2800af58-ef30-4820-bd19-0cc80d9bd785"/>
+					<textElement>
+						<font fontName="Kalpurush" size="8"/>
+					</textElement>
+					<text><![CDATA[আমার/আমাদের অথবা আমার/আমাদের পরিবারের প্রস্তাবিত বিমাকৃত সদস্যগণের কোন স্বাস্থ্য সংক্রান্ত তথ্য, চিকিৎসার ইতিহাস, হাসপাতালে ভর্তি সংক্রান্ত কোন তথ্য বা নথিপত্র থাকলে তা কোম্পানিকে দেওয়ার অনুমোদন প্রদান করছি। এই অনুমোদনের কোন অনুলিপি মূল অনুমোদনের মতই বৈধ হবে।]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="7" y="338" width="580" height="17" uuid="5979d737-5604-402c-9f5a-c761a2649eb6"/>
+					<textElement>
+						<font fontName="Kalpurush" size="8"/>
+					</textElement>
+					<text><![CDATA[দেওয়ার অনুমোদন প্রদান করছি। এই অনুমোদনের কোন অনুলিপি মূল অনুমোদনের মতই বৈধ হবে।]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="7" y="356" width="580" height="16" uuid="703e3524-2e94-4d9f-bec5-e3788b1057fd"/>
+					<textElement>
+						<font size="8"/>
+					</textElement>
+					<text><![CDATA[3.   I/we hereby acknowledge and agree that any personal information provided by me/us to American Life Insurance Company (the ‘Company’) can be stored, preserved and used by the Company, its affiliates and authorized representatives for any operational, financial, legal or compliance purpose and may be shared with or disclosed to any governmental or regulatory authority, law enforcement agency and/or third party who provide services to the Company or its affiliates, including those based in other countries. I/we understand that the Company will take reasonable measures to ensure security, integrity, protection, privacy and confidentiality of such information when storing, preserving, using, sharing and/or disclosing the same./]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="7" y="370" width="580" height="16" uuid="84951b64-c93f-47c4-9bea-9633a6493f7e"/>
+					<textElement>
+						<font size="8"/>
+					</textElement>
+					<text><![CDATA[preserved and used by the Company, its affiliates and authorized representatives for any operational, financial, legal or compliance purpose and may be shared with or disclosed to any governmental or regulatory authority, law enforcement agency and/or third party who provide services to the Company or its affiliates, including those based in other countries. I/we understand that the Company will take reasonable measures to ensure security, integrity, protection, privacy and confidentiality of such information when storing, preserving, using, sharing and/or disclosing the same./]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="7" y="383" width="580" height="16" uuid="6228da57-94c6-4a7c-a8c6-41815a6e0848"/>
+					<textElement>
+						<font size="8"/>
+					</textElement>
+					<text><![CDATA[with or disclosed to any governmental or regulatory authority, law enforcement agency and/or third party who provide services to the Company or its affiliates, including those based in other countries. I/we understand that the Company will take reasonable measures to ensure security, integrity, protection, privacy and confidentiality of such information when storing, preserving, using, sharing and/or disclosing the same./]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="7" y="397" width="580" height="16" uuid="270110a7-82e7-4b41-bcf6-d0e62b94079c"/>
+					<textElement>
+						<font size="8"/>
+					</textElement>
+					<text><![CDATA[including those based in other countries. I/we understand that the Company will take reasonable measures to ensure security, integrity, protection, privacy and confidentiality of such information when storing, preserving, using, sharing and/or disclosing the same./]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="7" y="411" width="364" height="16" uuid="0c07da35-849b-420e-abf3-3ef4bdf5094c"/>
+					<textElement>
+						<font size="8"/>
+					</textElement>
+					<text><![CDATA[confidentiality of such information when storing, preserving, using, sharing and/or disclosing the same./]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="372" y="411" width="215" height="17" uuid="51ed0699-2b54-43de-919f-8578869f9d9b"/>
+					<textElement>
+						<font fontName="Kalpurush" size="8"/>
+					</textElement>
+					<text><![CDATA[আমি/আমরা এই মর্মে স্বীকার করছি এবং সম্মত হচ্ছি যে, আমার/আমাদের প্রকাশ করা কোন ব্যক্তিগত তথ্য আমেরিকান লাইফ ইন্স্যুরেন্স কোম্পানী (‘কোম্পানি’), এর সর্ম্পকযুক্ত সংগঠন এবং কোম্পানির অনুমোদিত কোন ব্যক্তি ব্যবসায়িক কার্যক্রম পরিচালনায়, আর্থিক, আইনি বা কমপ্লায়েন্সের কোন উদ্দেশ্য পরিপালনের জন্য জমা রাখতে, সংরক্ষণ করতে এবং ব্যবহার করতে পারবে অথবা সরকারি সংস্থা, নিয়ন্ত্রক সংস্থা বা আইন প্রয়োগকারী সংস্থার সাথে বিনিময় অথবা প্রকাশ করতে পারবে এবং/অথবা কোম্পানিকে অথবা দেশের বাইরে অবস্থিত কোম্পানির সর্ম্পকযুক্ত সংগঠনকে সেবা প্রদানকারী তৃতীয় কোন পক্ষকে প্রদান করতে পারবে। আমি/আমরা অবগত আছি যে, কোম্পানি এসব তথ্য জমা রাখায়, সংরক্ষণে, ব্যবহারে, বিনিময়ে এবং/অথবা প্রকাশের ক্ষেত্রে নিরাপত্তা, সততা, সুরক্ষা, গোপনীয়তা এবং বিশ্বস্ততা নিশ্চিত করার ব্যাপারে যুক্তিসঙ্গত পদক্ষেপ গ্রহণ করবে।
+for proposed insured/প্রস্তাবিত বিমাকৃত ব্যক্তির জন্য
+]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="7" y="426" width="580" height="17" uuid="57d6b007-77b4-43b2-a774-ce9b58203256"/>
+					<textElement>
+						<font fontName="Kalpurush" size="8"/>
+					</textElement>
+					<text><![CDATA[প্রকাশ করা কোন ব্যক্তিগত তথ্য আমেরিকান লাইফ ইন্স্যুরেন্স কোম্পানী (‘কোম্পানি’), এর সর্ম্পকযুক্ত সংগঠন এবং কোম্পানির অনুমোদিত কোন ব্যক্তি ব্যবসায়িক কার্যক্রম পরিচালনায়, আর্থিক, আইনি বা কমপ্লায়েন্সের কোন উদ্দেশ্য পরিপালনের জন্য জমা রাখতে, সংরক্ষণ করতে এবং ব্যবহার করতে পারবে অথবা সরকারি সংস্থা, নিয়ন্ত্রক সংস্থা বা আইন প্রয়োগকারী সংস্থার সাথে বিনিময় অথবা প্রকাশ করতে পারবে এবং/অথবা কোম্পানিকে অথবা দেশের বাইরে অবস্থিত কোম্পানির সর্ম্পকযুক্ত সংগঠনকে সেবা প্রদানকারী তৃতীয় কোন পক্ষকে প্রদান করতে পারবে। আমি/আমরা অবগত আছি যে, কোম্পানি এসব তথ্য জমা রাখায়, সংরক্ষণে, ব্যবহারে, বিনিময়ে এবং/অথবা প্রকাশের ক্ষেত্রে নিরাপত্তা, সততা, সুরক্ষা, গোপনীয়তা এবং বিশ্বস্ততা নিশ্চিত করার ব্যাপারে যুক্তিসঙ্গত পদক্ষেপ গ্রহণ করবে।
+for proposed insured/প্রস্তাবিত বিমাকৃত ব্যক্তির জন্য
+]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="7" y="440" width="580" height="17" uuid="442e5b06-f2bb-44e4-a116-d2d8d58ccb67"/>
+					<textElement>
+						<font fontName="Kalpurush" size="8"/>
+					</textElement>
+					<text><![CDATA[কমপ্লায়েন্সের কোন উদ্দেশ্য পরিপালনের জন্য জমা রাখতে, সংরক্ষণ করতে এবং ব্যবহার করতে পারবে অথবা সরকারি সংস্থা, নিয়ন্ত্রক সংস্থা বা আইন প্রয়োগকারী সংস্থার সাথে বিনিময় অথবা প্রকাশ করতে পারবে এবং/অথবা কোম্পানিকে অথবা দেশের বাইরে অবস্থিত কোম্পানির সর্ম্পকযুক্ত সংগঠনকে সেবা প্রদানকারী তৃতীয় কোন পক্ষকে প্রদান করতে পারবে। আমি/আমরা অবগত আছি যে, কোম্পানি এসব তথ্য জমা রাখায়, সংরক্ষণে, ব্যবহারে, বিনিময়ে এবং/অথবা প্রকাশের ক্ষেত্রে নিরাপত্তা, সততা, সুরক্ষা, গোপনীয়তা এবং বিশ্বস্ততা নিশ্চিত করার ব্যাপারে যুক্তিসঙ্গত পদক্ষেপ গ্রহণ করবে।
+for proposed insured/প্রস্তাবিত বিমাকৃত ব্যক্তির জন্য
+]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="7" y="454" width="580" height="17" uuid="c05d39df-e58f-48db-9356-915815c269f6"/>
+					<textElement>
+						<font fontName="Kalpurush" size="8"/>
+					</textElement>
+					<text><![CDATA[করতে পারবে এবং/অথবা কোম্পানিকে অথবা দেশের বাইরে অবস্থিত কোম্পানির সর্ম্পকযুক্ত সংগঠনকে সেবা প্রদানকারী তৃতীয় কোন পক্ষকে প্রদান করতে পারবে। আমি/আমরা অবগত আছি যে, কোম্পানি এসব তথ্য জমা রাখায়, সংরক্ষণে, ব্যবহারে, বিনিময়ে এবং/অথবা প্রকাশের ক্ষেত্রে নিরাপত্তা, সততা, সুরক্ষা, গোপনীয়তা এবং বিশ্বস্ততা নিশ্চিত করার ব্যাপারে যুক্তিসঙ্গত পদক্ষেপ গ্রহণ করবে।
+for proposed insured/প্রস্তাবিত বিমাকৃত ব্যক্তির জন্য
+]]></text>
+				</staticText>
+				<staticText>
+					<reportElement x="7" y="467" width="580" height="17" uuid="21d39c95-e155-44d4-a817-75bfa1abbd51"/>
+					<textElement>
+						<font fontName="Kalpurush" size="8"/>
+					</textElement>
+					<text><![CDATA[এসব তথ্য জমা রাখায়, সংরক্ষণে, ব্যবহারে, বিনিময়ে এবং/অথবা প্রকাশের ক্ষেত্রে নিরাপত্তা, সততা, সুরক্ষা, গোপনীয়তা এবং বিশ্বস্ততা নিশ্চিত করার ব্যাপারে যুক্তিসঙ্গত পদক্ষেপ গ্রহণ করবে।]]></text>
+				</staticText>
+				<frame>
+					<reportElement x="7" y="489" width="580" height="250" uuid="e259a8e1-b118-4c9e-9557-596490c02c86"/>
+					<box>
+						<pen lineWidth="0.25"/>
+					</box>
+					<frame>
+						<reportElement x="0" y="0" width="580" height="70" uuid="221f19f8-73d4-451b-b49b-5471b3f39586"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<frame>
+							<reportElement x="342" y="0" width="238" height="70" uuid="3164d88e-f496-4ee3-b40c-e490d8a41938"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<frame>
+								<reportElement x="0" y="0" width="79" height="50" uuid="ae05ae57-c216-4f1b-8835-80bd66415923"/>
+								<box>
+									<pen lineWidth="0.25"/>
+								</box>
+								<staticText>
+									<reportElement x="0" y="1" width="79" height="19" uuid="f97542ea-4be8-44fe-ae4f-5286c7b65bf8"/>
+									<textElement>
+										<font size="8"/>
+									</textElement>
+									<text><![CDATA[ for proposed insured/]]></text>
+								</staticText>
+								<staticText>
+									<reportElement x="0" y="21" width="79" height="17" uuid="0e326412-95b1-442d-9e0e-df18dac88c02"/>
+									<textElement>
+										<font fontName="Kalpurush" size="8"/>
+									</textElement>
+									<text><![CDATA[প্রস্তাবিত বিমাকৃত ব্যক্তির জন্য]]></text>
+								</staticText>
+							</frame>
+							<frame>
+								<reportElement x="79" y="0" width="79" height="50" uuid="2507efb2-4256-4ab3-8e6b-1bd9ceb161dd"/>
+								<box>
+									<pen lineWidth="0.25"/>
+								</box>
+								<staticText>
+									<reportElement x="0" y="1" width="79" height="19" uuid="3206f7b4-7db7-49db-a0ce-8cf2ce9a5696"/>
+									<textElement>
+										<font size="8"/>
+									</textElement>
+									<text><![CDATA[ for adult applicant/]]></text>
+								</staticText>
+								<staticText>
+									<reportElement x="0" y="21" width="79" height="17" uuid="02a56e64-ab90-414b-af36-00f8fe829c5f"/>
+									<textElement>
+										<font fontName="Kalpurush" size="7"/>
+									</textElement>
+									<text><![CDATA[প্রাপ্ত বয়স্ক আবেদনকারীর জন্য]]></text>
+								</staticText>
+							</frame>
+							<frame>
+								<reportElement x="158" y="0" width="80" height="50" uuid="f77c3275-b935-4efe-b800-0fefee784eef"/>
+								<box>
+									<pen lineWidth="0.25"/>
+								</box>
+								<staticText>
+									<reportElement x="0" y="1" width="79" height="18" uuid="d4bc5871-0790-4199-aea5-7fb47df86810"/>
+									<textElement>
+										<font size="8"/>
+									</textElement>
+									<text><![CDATA[ for other proposed insured/]]></text>
+								</staticText>
+								<staticText>
+									<reportElement x="34" y="17" width="44" height="17" uuid="9f4aafb7-941f-4317-8187-b5fbe5fb7f2f"/>
+									<textElement>
+										<font fontName="Kalpurush" size="8"/>
+									</textElement>
+									<text><![CDATA[অন্য সকল]]></text>
+								</staticText>
+								<staticText>
+									<reportElement x="1" y="18" width="34" height="19" uuid="8cbc4a62-2bbb-44d4-9a7a-9ab306618bde"/>
+									<textElement>
+										<font size="8"/>
+									</textElement>
+									<text><![CDATA[ insured/]]></text>
+								</staticText>
+								<staticText>
+									<reportElement x="2" y="32" width="76" height="17" uuid="73d49ddd-3264-4b69-8f7a-65cc0e19528c"/>
+									<textElement>
+										<font fontName="Kalpurush" size="8"/>
+									</textElement>
+									<text><![CDATA[বিমাকৃত ব্যক্তির জন্য]]></text>
+								</staticText>
+							</frame>
+							<frame>
+								<reportElement x="0" y="50" width="41" height="20" uuid="4e2a3a5d-1e11-4259-aa18-ebef449cfdaf"/>
+								<box>
+									<pen lineWidth="0.25"/>
+								</box>
+								<staticText>
+									<reportElement x="1" y="1" width="20" height="17" uuid="daf93e7e-226a-42cc-aff3-4ad1b3aa253e"/>
+									<textElement>
+										<font size="7"/>
+									</textElement>
+									<text><![CDATA[Yes/]]></text>
+								</staticText>
+								<staticText>
+									<reportElement x="16" y="1" width="15" height="17" uuid="3ee4b7e5-4759-4b44-adce-aae25219eba4"/>
+									<textElement>
+										<font fontName="Kalpurush" size="7"/>
+									</textElement>
+									<text><![CDATA[হ্যাঁ]]></text>
+								</staticText>
+							</frame>
+							<frame>
+								<reportElement x="41" y="50" width="38" height="20" uuid="53b56cbe-bc27-4274-a8bb-44ac228fdfba"/>
+								<box>
+									<pen lineWidth="0.25"/>
+								</box>
+								<staticText>
+									<reportElement x="1" y="1" width="20" height="17" uuid="415e6a3f-5817-4841-aee4-f494209f81f8"/>
+									<textElement>
+										<font size="7"/>
+									</textElement>
+									<text><![CDATA[No/]]></text>
+								</staticText>
+								<staticText>
+									<reportElement x="13" y="1" width="15" height="17" uuid="028dd309-4eaa-46b5-a009-7b9a2af8112a"/>
+									<textElement>
+										<font fontName="Kalpurush" size="7"/>
+									</textElement>
+									<text><![CDATA[না]]></text>
+								</staticText>
+							</frame>
+							<frame>
+								<reportElement x="79" y="50" width="41" height="20" uuid="5c0d5045-6247-4a75-ac4d-e4c9575e57a7"/>
+								<box>
+									<pen lineWidth="0.25"/>
+								</box>
+								<staticText>
+									<reportElement x="1" y="1" width="20" height="17" uuid="3283bd80-4254-4eb0-bd39-ce9a6336badb"/>
+									<textElement>
+										<font size="7"/>
+									</textElement>
+									<text><![CDATA[Yes/]]></text>
+								</staticText>
+								<staticText>
+									<reportElement x="16" y="1" width="15" height="17" uuid="2405a702-edd3-4480-be40-6d1094968850"/>
+									<textElement>
+										<font fontName="Kalpurush" size="7"/>
+									</textElement>
+									<text><![CDATA[হ্যাঁ]]></text>
+								</staticText>
+							</frame>
+							<frame>
+								<reportElement x="120" y="50" width="38" height="20" uuid="734b0c3f-667d-44a1-a2fc-3aead0e86432"/>
+								<box>
+									<pen lineWidth="0.25"/>
+								</box>
+								<staticText>
+									<reportElement x="1" y="1" width="20" height="17" uuid="7e046d64-a48f-40f7-981d-3e6c31cd7a1c"/>
+									<textElement>
+										<font size="7"/>
+									</textElement>
+									<text><![CDATA[No/]]></text>
+								</staticText>
+								<staticText>
+									<reportElement x="13" y="1" width="15" height="17" uuid="686071a6-64cc-4799-b8b1-f94089fda2f6"/>
+									<textElement>
+										<font fontName="Kalpurush" size="7"/>
+									</textElement>
+									<text><![CDATA[না]]></text>
+								</staticText>
+							</frame>
+							<frame>
+								<reportElement x="158" y="50" width="43" height="20" uuid="328e1a49-eabf-4f2c-9bec-1ae0a3b3b620"/>
+								<box>
+									<pen lineWidth="0.25"/>
+								</box>
+								<staticText>
+									<reportElement x="1" y="1" width="20" height="17" uuid="fe85de9c-ce2a-4627-8d74-21657636988c"/>
+									<textElement>
+										<font size="7"/>
+									</textElement>
+									<text><![CDATA[Yes/]]></text>
+								</staticText>
+								<staticText>
+									<reportElement x="16" y="1" width="15" height="17" uuid="beecf7c1-5c06-4c9d-ac12-d69c79959dda"/>
+									<textElement>
+										<font fontName="Kalpurush" size="7"/>
+									</textElement>
+									<text><![CDATA[হ্যাঁ]]></text>
+								</staticText>
+							</frame>
+							<frame>
+								<reportElement x="201" y="50" width="37" height="20" uuid="431f046f-c730-438d-9a16-48e24a476cfb"/>
+								<box>
+									<pen lineWidth="0.25"/>
+								</box>
+								<staticText>
+									<reportElement x="1" y="1" width="20" height="17" uuid="b8ac4244-cb9f-414d-86c9-0b0b28a144a8"/>
+									<textElement>
+										<font size="7"/>
+									</textElement>
+									<text><![CDATA[No/]]></text>
+								</staticText>
+								<staticText>
+									<reportElement x="13" y="1" width="15" height="17" uuid="e91a4d8c-8422-486c-b67b-4fcd939f077d"/>
+									<textElement>
+										<font fontName="Kalpurush" size="7"/>
+									</textElement>
+									<text><![CDATA[না]]></text>
+								</staticText>
+							</frame>
+						</frame>
+					</frame>
+					<frame>
+						<reportElement x="0" y="71" width="342" height="90" uuid="e58dc340-0a1a-4041-a6ca-9d3d9e80e481"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<staticText>
+							<reportElement x="1" y="1" width="341" height="16" uuid="48a8a9b4-f5b5-420c-be5b-3de038691f3d"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[4  (i)  Is/Are the mentioned person(s) in the application citizen of a country other than Bangladesh? If yes, ]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="20" y="13" width="110" height="16" uuid="0441de07-939a-4d8f-a3b5-daa8ac86c1b9"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[please list all the countries name/]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="130" y="13" width="212" height="17" uuid="2018fc91-6664-4472-95d1-80052f563ef1"/>
+							<textElement>
+								<font fontName="Kalpurush" size="7"/>
+							</textElement>
+							<text><![CDATA[আবেদনপত্রে উল্লিখিত ব্যক্তি(রা) কি বাংলাদেশ ছাড়া অন্য কোন দেশের নাগরিক? ]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="20" y="25" width="190" height="17" uuid="b7e541e3-098f-4f23-a0ee-bd55d4a9d5b3"/>
+							<textElement>
+								<font fontName="Kalpurush" size="7"/>
+							</textElement>
+							<text><![CDATA[যদি উত্তর হ্যাঁ হয়, তবে সকল দেশের নাম প্রদান করুন: ]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="20" y="41" width="80" height="19" uuid="b50baf96-c204-406d-9af0-6e6ee93341f6"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[a) for proposed insured /]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="97" y="40" width="80" height="17" uuid="b5d888cf-6795-40fb-be4e-5322ce179b8d"/>
+							<textElement>
+								<font fontName="Kalpurush" size="7"/>
+							</textElement>
+							<text><![CDATA[প্রস্তাবিত বিমাকৃত ব্যক্তির জন্য]]></text>
+						</staticText>
+						<line>
+							<reportElement x="189" y="53" width="69" height="1" uuid="cd7cbabd-d414-4f0b-ae2b-89e7f72bf436"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="180" y="43" width="8" height="13" uuid="81fff793-d420-4a3c-a131-b376fcdaa121"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[1.]]></text>
+						</staticText>
+						<line>
+							<reportElement x="269" y="53" width="71" height="1" uuid="d68dc829-987a-4a10-811a-cf8b0fddcec6"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="260" y="43" width="8" height="13" uuid="e317a877-39bd-483c-b107-8e3f138c5a93"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[2.]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="20" y="58" width="80" height="19" uuid="ba0a6660-425e-4ae6-b316-e466bdbcaba3"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[b) for Adult Applicant /]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="92" y="57" width="80" height="17" uuid="2d1a84d0-3a1b-4636-9b1e-8e891705e50a"/>
+							<textElement>
+								<font fontName="Kalpurush" size="7"/>
+							</textElement>
+							<text><![CDATA[প্রাপ্তবয়স্ক আবেদনকারীর জন্য]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="180" y="60" width="8" height="13" uuid="0e276e0a-8588-40bb-a11c-b0736750c515"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[1.]]></text>
+						</staticText>
+						<line>
+							<reportElement x="189" y="70" width="69" height="1" uuid="f73af3c6-0695-4e47-b3c0-d06d2d145e24"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="260" y="60" width="8" height="13" uuid="6be24f89-f941-41e7-b075-487a7310232a"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[2.]]></text>
+						</staticText>
+						<line>
+							<reportElement x="269" y="70" width="71" height="1" uuid="5367248d-adf0-46cf-9b85-6fd7963d8722"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="20" y="72" width="88" height="13" uuid="3a980ebc-c532-49d1-986d-dcbf2a001a91"/>
+							<textElement>
+								<font size="6"/>
+							</textElement>
+							<text><![CDATA[c) for other proposed insured /]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="102" y="71" width="98" height="13" uuid="61477de9-742e-4f64-9d99-8fefb106d0a2"/>
+							<textElement>
+								<font fontName="Kalpurush" size="6"/>
+							</textElement>
+							<text><![CDATA[অন্য সকল প্রস্তাবিত বিমাকৃত ব্যক্তির জন্য]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="202" y="74" width="8" height="13" uuid="8804a9ed-dd42-4c37-9841-59ce39ec5a81"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[1.]]></text>
+						</staticText>
+						<line>
+							<reportElement x="210" y="85" width="49" height="1" uuid="226a49c8-6df6-4d26-8bd8-afd17d05130a"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="261" y="74" width="8" height="13" uuid="c64aa293-6431-45da-9260-b820409e4c16"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[2.]]></text>
+						</staticText>
+						<line>
+							<reportElement x="270" y="84" width="71" height="1" uuid="a9202927-4a7e-46a7-8400-58990e0dca9e"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+					</frame>
+					<frame>
+						<reportElement x="0" y="161" width="342" height="89" uuid="503a0449-b578-4833-80bf-af6e6530d7eb"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<staticText>
+							<reportElement x="1" y="1" width="341" height="16" uuid="72c0294b-89ac-4cfb-8299-95c409f59421"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[   (ii)  Is/Are the mentioned person(s) in the application taxpayers in a country other than Bangladesh? If yes, ]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="20" y="13" width="110" height="16" uuid="6c33d74d-7c64-43c3-b5aa-15f04ff8e33a"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[please list all the countries name/]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="130" y="13" width="212" height="17" uuid="5cd7ae34-5474-42c4-848f-2126e15df23f"/>
+							<textElement>
+								<font fontName="Kalpurush" size="7"/>
+							</textElement>
+							<text><![CDATA[আবেদনপত্রে উল্লিখিত ব্যক্তি(রা) কি বাংলাদেশ ছাড়া অন্য কোন দেশের করদাতা? ]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="20" y="25" width="190" height="17" uuid="6009377e-8540-452f-9eb1-49d0f64e03f0"/>
+							<textElement>
+								<font fontName="Kalpurush" size="7"/>
+							</textElement>
+							<text><![CDATA[যদি উত্তর হ্যাঁ হয়, তবে সকল দেশের নাম প্রদান করুন]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="20" y="41" width="80" height="19" uuid="07490761-d269-406a-93dc-e3f56bbe1b40"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[a) for proposed insured /]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="97" y="40" width="80" height="17" uuid="41dc05be-a7c1-48d2-bb23-8742fc35340e"/>
+							<textElement>
+								<font fontName="Kalpurush" size="7"/>
+							</textElement>
+							<text><![CDATA[প্রস্তাবিত বিমাকৃত ব্যক্তির জন্য]]></text>
+						</staticText>
+						<line>
+							<reportElement x="189" y="53" width="69" height="1" uuid="c055c087-de4a-4438-bd62-8a4c9cec5bc6"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="180" y="43" width="8" height="13" uuid="62dff0d3-da37-455c-b83b-338753ad6880"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[1.]]></text>
+						</staticText>
+						<line>
+							<reportElement x="269" y="53" width="71" height="1" uuid="2adab403-b858-402f-87b6-b09e0fc7403a"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="260" y="43" width="8" height="13" uuid="c6c84448-6e0a-49a9-91a8-ee73e57212f5"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[2.]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="20" y="58" width="80" height="19" uuid="b0ae4e28-f372-4a50-9809-67361fd7ec98"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[b) for Adult Applicant /]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="92" y="57" width="80" height="17" uuid="95c164d2-efe1-4f57-bc6c-277c6bdd0a5f"/>
+							<textElement>
+								<font fontName="Kalpurush" size="7"/>
+							</textElement>
+							<text><![CDATA[প্রাপ্তবয়স্ক আবেদনকারীর জন্য]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="180" y="60" width="8" height="13" uuid="f8d25725-e3ec-4e1a-8b1e-99203ba4b6ff"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[1.]]></text>
+						</staticText>
+						<line>
+							<reportElement x="189" y="70" width="69" height="1" uuid="910265b9-bc78-4de3-85e3-e1d0280e4344"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="260" y="60" width="8" height="13" uuid="18b55217-365f-4fc5-81c9-2fe29741d6eb"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[2.]]></text>
+						</staticText>
+						<line>
+							<reportElement x="269" y="70" width="71" height="1" uuid="615eb871-b685-4e72-9221-504631145103"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="20" y="72" width="88" height="13" uuid="9eb4fbea-79b6-4059-81b3-e59e587e73f9"/>
+							<textElement>
+								<font size="6"/>
+							</textElement>
+							<text><![CDATA[c) for other proposed insured /]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="102" y="71" width="98" height="13" uuid="7669c1a2-2fa8-426c-ab95-e79af19bcd3a"/>
+							<textElement>
+								<font fontName="Kalpurush" size="6"/>
+							</textElement>
+							<text><![CDATA[অন্য সকল প্রস্তাবিত বিমাকৃত ব্যক্তির জন্য]]></text>
+						</staticText>
+						<staticText>
+							<reportElement x="202" y="74" width="8" height="13" uuid="76650907-841a-47d3-ae27-81adbc9e5871"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[1.]]></text>
+						</staticText>
+						<line>
+							<reportElement x="210" y="85" width="49" height="1" uuid="a4f5796d-fb2a-4669-af6b-2a954b441370"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+						<staticText>
+							<reportElement x="261" y="74" width="8" height="13" uuid="e22a21c5-3fbe-4e89-915a-08645ca61bef"/>
+							<textElement>
+								<font size="7"/>
+							</textElement>
+							<text><![CDATA[2.]]></text>
+						</staticText>
+						<line>
+							<reportElement x="270" y="84" width="71" height="1" uuid="af1355aa-8dfd-4cb1-83fa-f80d150a38c7"/>
+							<graphicElement>
+								<pen lineWidth="0.25"/>
+							</graphicElement>
+						</line>
+					</frame>
+					<frame>
+						<reportElement x="342" y="70" width="238" height="91" uuid="bf8defe9-9273-46b9-b606-5d5998f47b32"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<frame>
+							<reportElement x="0" y="0" width="41" height="91" uuid="14d832fc-8666-4f4f-95c1-bd5dc2ce463e"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<rectangle>
+								<reportElement x="15" y="43" width="11" height="8" uuid="56bb8955-81a6-402a-ba9c-dc3066d61d77"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="60" width="11" height="8" uuid="e68a7d89-3f50-41f1-b51f-213764d5994d"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="78" width="11" height="8" uuid="ab34ea2b-fa7d-42e0-8ce0-c961261a7734"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+						</frame>
+						<frame>
+							<reportElement x="41" y="0" width="38" height="91" uuid="c3982fb0-aaa6-4658-8926-b38fbd6f03bc"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<rectangle>
+								<reportElement x="15" y="78" width="11" height="8" uuid="72df8202-337b-4fb7-9488-bbcc2e6d0d49"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="60" width="11" height="8" uuid="688fcbdb-b69a-4f4c-ac1e-477ac17bd1c6"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="43" width="11" height="8" uuid="fa70492a-15f5-415e-ae14-6e89794a5296"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+						</frame>
+						<frame>
+							<reportElement x="79" y="0" width="41" height="91" uuid="9b5ae1b4-31a9-46fc-afcc-da96300a3f18"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<rectangle>
+								<reportElement x="15" y="78" width="11" height="8" uuid="86d703f2-80ab-43a1-977f-ba410ce852e9"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="60" width="11" height="8" uuid="f35454d0-9019-46d1-937f-6c6bef2a0183"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="43" width="11" height="8" uuid="752291d8-e95b-43d4-aa1e-792c97bfdad7"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+						</frame>
+						<frame>
+							<reportElement x="120" y="0" width="38" height="91" uuid="079bfb51-a7ff-41f4-988a-e1af6779e55f"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<rectangle>
+								<reportElement x="15" y="78" width="11" height="8" uuid="c6559e6a-f395-4198-8d69-fbb933fa2f15"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="60" width="11" height="8" uuid="1c8abc47-4b36-4298-978c-58364091f0f5"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="43" width="11" height="8" uuid="15f87eba-ff5a-497b-bfb0-9e3fd6a1233e"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+						</frame>
+						<frame>
+							<reportElement x="158" y="0" width="43" height="91" uuid="776ea22e-a2de-4d4e-9bb4-a1777390b244"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<rectangle>
+								<reportElement x="15" y="78" width="11" height="8" uuid="e5d72fbd-816b-4081-b6b8-e7d8a11ad454"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="60" width="11" height="8" uuid="b2f0e17f-d739-4adf-a744-d4832e1050bc"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="43" width="11" height="8" uuid="b80a8b58-d994-4af9-abd8-96a89d50395d"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+						</frame>
+						<frame>
+							<reportElement x="201" y="0" width="37" height="91" uuid="3b96c2d6-0ad5-4fe0-94e3-f821d2363b18"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<rectangle>
+								<reportElement x="15" y="78" width="11" height="8" uuid="0f243542-9100-42ab-84ec-eeb616689fe5"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="60" width="11" height="8" uuid="ac77aa22-a4f4-416c-b6ff-cc46f24925a1"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="43" width="11" height="8" uuid="64947836-4133-450d-945b-6e5f330cdabf"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+						</frame>
+					</frame>
+					<frame>
+						<reportElement x="342" y="161" width="238" height="89" uuid="20d35855-daf8-429a-8995-277d112f3312"/>
+						<box>
+							<pen lineWidth="0.25"/>
+						</box>
+						<frame>
+							<reportElement x="0" y="0" width="41" height="89" uuid="3a41fa5e-a502-477f-b26d-aba501227d82"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<rectangle>
+								<reportElement x="15" y="43" width="11" height="8" uuid="09bbc9eb-cc07-49c3-a4a0-8a71cfc60e94"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="60" width="11" height="8" uuid="a065e3fb-bfd3-40f5-8550-c07350d4c355"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="78" width="11" height="8" uuid="bde397f4-db3b-4968-bf1c-4c44fbe310fd"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+						</frame>
+						<frame>
+							<reportElement x="41" y="0" width="38" height="89" uuid="b89719d2-0b7d-4c21-96ba-dd725db11692"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<rectangle>
+								<reportElement x="15" y="78" width="11" height="8" uuid="15fd70a2-fa79-4a78-8124-0efc790f39e2"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="60" width="11" height="8" uuid="1d38981a-5e28-4926-8c35-88b799bc7923"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="43" width="11" height="8" uuid="5c26275e-2e82-408b-adc2-9d2dde33c9be"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+						</frame>
+						<frame>
+							<reportElement x="79" y="0" width="41" height="89" uuid="d910b76c-d660-4895-86af-c9e8d45a50a2"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<rectangle>
+								<reportElement x="15" y="78" width="11" height="8" uuid="afde5c81-a8d9-4a9e-a67c-1e17d47e81a1"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="60" width="11" height="8" uuid="6dcc807e-1f50-4391-a9c1-cb2a89e288fd"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="43" width="11" height="8" uuid="54958011-4e55-4277-b160-52c610e0c71f"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+						</frame>
+						<frame>
+							<reportElement x="120" y="0" width="38" height="89" uuid="11ea184e-39f4-4bf4-af50-76a52f7ee73b"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<rectangle>
+								<reportElement x="15" y="78" width="11" height="8" uuid="8985d075-4bb5-4f3b-922a-f6198fc3a3ec"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="60" width="11" height="8" uuid="0de1dbe0-3804-4915-977a-858f3002e040"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="43" width="11" height="8" uuid="ba5fef8d-092f-48fa-80c1-18a984661a9e"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+						</frame>
+						<frame>
+							<reportElement x="158" y="0" width="43" height="89" uuid="25fe6001-1a15-4ac9-8809-fb3a3fc1f1d3"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<rectangle>
+								<reportElement x="15" y="78" width="11" height="8" uuid="bef125c7-4859-4d81-9c2b-ccce827399d7"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="60" width="11" height="8" uuid="cfbd9bfe-c5b4-4f29-aa07-1e79c6db70cc"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="43" width="11" height="8" uuid="e64e4726-0a75-48e7-91c1-6e24288708c3"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+						</frame>
+						<frame>
+							<reportElement x="201" y="0" width="37" height="89" uuid="589f934a-aabe-4c68-b4d4-4c88f01d15b0"/>
+							<box>
+								<pen lineWidth="0.25"/>
+							</box>
+							<rectangle>
+								<reportElement x="15" y="78" width="11" height="8" uuid="185c4284-7e86-40dc-b993-a352a1ede993"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="60" width="11" height="8" uuid="e78c9fde-32e5-4965-9316-9bbd16058fea"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+							<rectangle>
+								<reportElement x="15" y="43" width="11" height="8" uuid="b4000f28-8317-47c4-b56f-ba0861ddf0da"/>
+								<graphicElement>
+									<pen lineWidth="0.25"/>
+								</graphicElement>
+							</rectangle>
+						</frame>
+					</frame>
+				</frame>
+				<frame>
+					<reportElement x="7" y="744" width="580" height="42" uuid="d3582f81-aed7-4351-8d0a-c456c8c92a95"/>
+					<staticText>
+						<reportElement x="1" y="1" width="579" height="16" uuid="a0f55e00-c000-4f76-8c75-6402ce8de9c7"/>
+						<textElement>
+							<font size="7"/>
+						</textElement>
+						<text><![CDATA[   (iii)  I/we agree to inform the Company within thirty (30) days of my/our knowledge if I/we, any designated Beneficiary(ies) or any person I/we assign to the policy become a U.S. person ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="145" y="13" width="435" height="17" uuid="2bbaf565-04b0-43b4-985c-de3998dd26f7"/>
+						<textElement>
+							<font fontName="Kalpurush" size="7"/>
+						</textElement>
+						<text><![CDATA[আমি/অমরা বা কোন মনোনীত সুবিধাগ্রাহী/গন অথবা পলিসিতে নিযুক্ত কোন ব্যক্তি যদি যুক্তরাষ্ট্রের ফেডারেল আয়করের আওতায় যুক্তরাষ্ট্রের ব্যক্তি হিসেবে গণ্য হন তবে তা ]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="20" y="13" width="130" height="16" uuid="19b7ee20-b504-4eac-870d-56c1000bfa13"/>
+						<textElement>
+							<font size="7"/>
+						</textElement>
+						<text><![CDATA[for U.S. Federal Income Tax purposes/]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="20" y="25" width="560" height="17" uuid="37a64c07-f9a1-4d84-8b80-2a2e74358234"/>
+						<textElement>
+							<font fontName="Kalpurush" size="7"/>
+						</textElement>
+						<text><![CDATA[আমার/ আমাদের জানার ত্রিশ (৩০) দিনের মধ্যে আমি/অমরা কোম্পানিকে জানাতে সম্মত আছি।]]></text>
+					</staticText>
+				</frame>
+				<frame>
+					<reportElement x="7" y="789" width="580" height="30" uuid="34aff83e-be83-4dd5-be96-cda068fd4979"/>
+					<staticText>
+						<reportElement x="1" y="1" width="429" height="16" uuid="98de30e0-33a9-47fa-85e1-9d227ccf3cb6"/>
+						<textElement>
+							<font size="7"/>
+						</textElement>
+						<text><![CDATA[   (iv)  I/we acknowledge that a false statement or misrepresentation of tax status by a U.S. Person could lead to penalties under U.S. law/]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="20" y="13" width="273" height="17" uuid="4a7e5517-e7d2-49e5-a502-993377a125c2"/>
+						<textElement>
+							<font fontName="Kalpurush" size="7"/>
+						</textElement>
+						<text><![CDATA[ট্যাক্স স্ট্যাটাসের মিথ্যা বিবৃতি বা মিথ্যা বর্ণনা যুক্তরাষ্ট্রের আইনের অধীনে শাস্তিযোগ্য অপরাধ হতে পারে।]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="430" y="1" width="150" height="17" uuid="6c0c61bc-ef5f-457b-a59c-4b05b074687b"/>
+						<textElement>
+							<font fontName="Kalpurush" size="7"/>
+						</textElement>
+						<text><![CDATA[আমি/আমরা স্বীকার করছি যে, যুক্তরাষ্ট্রের ব্যক্তি কর্তৃক ]]></text>
+					</staticText>
+				</frame>
+				<frame>
+					<reportElement x="7" y="821" width="580" height="30" uuid="d310f1d7-66c0-44c7-aa86-29408e020e15"/>
+					<staticText>
+						<reportElement x="1" y="1" width="471" height="16" uuid="808b0389-8206-4a02-9df2-9a2b7ce2c14c"/>
+						<textElement>
+							<font size="7"/>
+						</textElement>
+						<text><![CDATA[   (v)  I/we also note that the Company reserves the right to deduct any withholding required by the US Foreign Account Tax Compliance Act (‘FATCA’)/]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="187" y="13" width="175" height="17" uuid="4f2fec22-288e-4b5c-8f5a-2f6e7a250d95"/>
+						<textElement>
+							<font fontName="Kalpurush" size="7"/>
+						</textElement>
+						<text><![CDATA[এর অধীনে কোম্পানি উৎসে কর কর্তন করার অধিকার সংরক্ষণ করে।]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="472" y="1" width="108" height="17" uuid="bb499b78-455e-4d4d-b7f5-c024beee3ab7"/>
+						<textElement>
+							<font fontName="Kalpurush" size="7"/>
+						</textElement>
+						<text><![CDATA[আমি/আমরা আরো অবগত আছি যে]]></text>
+					</staticText>
+					<staticText>
+						<reportElement x="20" y="13" width="169" height="16" uuid="65f1d883-9028-46cd-9303-4b3ccf5740f4"/>
+						<textElement>
+							<font size="7"/>
+						</textElement>
+						<text><![CDATA[US Foreign Account Tax Compliance Act (‘FATCA’)-]]></text>
+					</staticText>
+				</frame>
+			</frame>
+		</band>
+	</title>
+</jasperReport>
